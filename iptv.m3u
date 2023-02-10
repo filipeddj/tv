@@ -1,13 +1,20 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="Teste", Canal Educação (Brasília - DF)
-https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls7meZndzXNXQ9V0kq4etCXwjVWaky5YQXPc83rbmMYwP)/dm/3/x8abdvf/s/live-4.m3u8
+https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls7meZndzXNXQ9V0kq4etCXwjVWaky5YQXPc83rbmMYwP)/dm/3/x8abdvf/s/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="Teste", SBT (?)
 https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=I3m8_uq8CkGFn3
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Teste", Cultura (São Paulo - SP)
-https://d2qhruj0t6hrl2.cloudfront.net/out/v1/61062273f9104954931a9475761c5889/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWHLnp3.png" group-title="Teste", TV Diário (Fortaleza - CE)
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZccWzpgluL6-6ffMDJI4ZMg8UVD_4cGXeogRN8DCT1Gi)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XJwhJA.png" group-title="Teste", TV Gazeta (São Paulo - SP)
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxpeoAMvXwfwE_q7R6BxAr_Njqc8ATgAD32ooXv-0-3x)/dm/3/x89qors/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OfLaI8.png" group-title="Teste", TVT (São Paulo - SP)
+https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GzCt5yDt8LBlByj5565ffQhbs9gsrZCTtLotaXrXnRe5)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+
 
 
 
@@ -92,8 +99,8 @@ https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHgMhX3.png" group-title="Variedades", TV Brasil 2 (Brasília - DF)
 https://nesuko.br2telecom.net/TV_Brasil2/index.m3u8?token=1mn72SrllwcQ1BRTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YAiIfIO.png" group-title="Variedades", Cultura - CATVE (Cascavel - PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0d81GTt.png" group-title="Teste", Cultura (São Paulo - SP)
+https://d2qhruj0t6hrl2.cloudfront.net/out/v1/61062273f9104954931a9475761c5889/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4oFjm4.png" group-title="Agronegócios", Terraviva (São Paulo - SP)
 https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
@@ -336,7 +343,8 @@ https://tv.unisc.br/hls/test.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAiIfIO.png" group-title="Variedades", Cultura - CATVE (Cascavel - PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJOiKmj.png" group-title="Arte, Cultura e Educação", Cultura - Canal 38 (Apucarana - PR)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
