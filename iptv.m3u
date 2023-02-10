@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo MG (Belo Horizonte - MG)
+https://server100.online/globo-mg/video.m3u8?token=90bb24b2df218e803e0cbe773f871487cf98a320-ecc2b33133c3e71d645d603e7ca6ed28-1676058083-1676050883
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo (São Paulo - SP)
 https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
 
