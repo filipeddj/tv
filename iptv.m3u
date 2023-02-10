@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592308109.gif" group-title="Teste", Rede América (Pouso Alegre - MG)
-https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CpwFP5f0Dfy1x8vonqlZkfcuHYzqmCTo36Pgj9WvHRpKzvHqjWF4yDrl_c6e_gMSB76gI-kgxB77dwaA7Wsw1RTrQaTrIOIEiPaCu0pjseiupLrUY4pj57XW1YiAqHikigENDtxRWF6ytF7L78rv_keBLvnkpzdQqLudyvq-8YHz4rD4Vcn8J5JMH8edOkj4lHyvN3Nf5RK1OKcjZAklDYoA6-BcqIlwNFMv5DY2-xUvOeItecfF8D2S39YqsshdO2tLEeuIeBG4_TRIE3xPEOXzYlo8988C-6hWmxqWtTDblfVoUiHxH0E5p6VGzvKG8RyA0qeFxYHEgEY0rti9cHRL3tbTRWGfFZ2nmPxCOZQFymvqARHjTSs9sACB8V5a-8uyyfE9seME5ZUJVtvfF7wA9gqLQFFCnHHUi5zqP-PSLmx8uaxk3cVLu-fy3ELGqGKpxzWYOrj9ONvfBH7Z3aV4Bg6SqplI34ibW9WlkT9kjvlNCHJBOh5GbDjRXe0t8Bto4t74hUYXbekvx8TOYngwxWpsqtjSbPlSWNFYRiiJmnONW6Zf-O1mv4M8ZtPzyaAfIlAIMUb0-N3qNcj1-bjd81Le-suQ64oMAHsQd6GCFCmccWAk4xJ0-7pqYDX42Z-n3olN2wyml304eA312jPw5RewpT8706-Lv8p1HF5bNHxb9gY5yY8j6rZMGmaIGudbviPl6jmiBV-eZ_YPVmQ_RLbcjnMKrqFogU9mKr2ivpJTlxa93JjlJKjVeivQMH_gx4Y-ysSrDgyD69rTQqL9VVlbhsa4aFt6gBVfqE3cfmjAWZTjdj095GiA-PrYC-Kv-O8kKU9Lcs2X1BfJi0L1vlqZkZqh8TEDfPcqlXoBGB8tUkcVhapz3dwGdWEaDCcE79nIfkqMtGx4byABKgl1cy1lYXN0LTEwoAQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="Teste", Canal Educação (Brasília - DF)
 https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls7meZndzXNXQ9V0kq4etCXwjVWaky5YQXPc83rbmMYwP)/dm/3/x8abdvf/s/live-4.m3u8
 
@@ -12,8 +9,6 @@ https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=I3m8_uq8CkGFn3
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Teste", Cultura (São Paulo - SP)
 https://d2qhruj0t6hrl2.cloudfront.net/out/v1/61062273f9104954931a9475761c5889/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Teste", Record MG (Belo Horizonte - MG)
-https://bhe4.akamaized.net/hls/live/2037850/bhe4/hdntl=exp=1676140694~acl=%2f*~data=hdntl~hmac=b7b440db7017de73ee0b6a167707e6c0efcc4cd1ac724b0fe4f74a70a353a110/master_720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo (São Paulo - SP)
