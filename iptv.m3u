@@ -9,8 +9,8 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxETIyp.png" group-title="Variedades", TV Brasil (Brasília - DF)
 https://nesuko.br2telecom.net/TV_Brasil/index.m3u8?token=1mn72SrllwcQ1BRTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9DeY9PY.png" group-title="Variedades", RedeTV! ES (Vitória - ES)
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5tzr2u.png" group-title="Variedades", RedeTV! (São Paulo - SP)
+https://nesuko.br2telecom.net/RedeTV/index.m3u8?token=1mn72SrllwcQ1BRTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LhxK28B.png" group-title="Variedades", Band - RBA TV (Belém - PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -265,6 +265,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XH484hd.png" group-title="Variedades", RedeTV! Tocantins (Palmas - TO)
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9DeY9PY.png" group-title="Variedades", RedeTV! ES (Vitória - ES)
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
 
 
 
