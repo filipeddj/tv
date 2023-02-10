@@ -1,16 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="Teste", Canal Educação (Brasília - DF)
-https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls7meZndzXNXQ9V0kq4etCXwjVWaky5YQXPc83rbmMYwP)/dm/3/x8abdvf/s/live-4.m3u8#cell=lnyc
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="Teste", SBT (?)
 https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=I3m8_uq8CkGFn3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QWHLnp3.png" group-title="Teste", TV Diário (Fortaleza - CE)
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZccWzpgluL6-6ffMDJI4ZMg8UVD_4cGXeogRN8DCT1Gi)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3XJwhJA.png" group-title="Teste", TV Gazeta (São Paulo - SP)
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxpeoAMvXwfwE_q7R6BxAr_Njqc8ATgAD32ooXv-0-3x)/dm/3/x89qors/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OfLaI8.png" group-title="Teste", TVT (São Paulo - SP)
 https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GzCt5yDt8LBlByj5565ffQhbs9gsrZCTtLotaXrXnRe5)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
@@ -39,8 +30,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3qfIU.png" group-title="Católico", Rede Vida (São José do Rio Preto - SP)
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vwo4t51.png" group-title="Variedades", TV Gazeta - TV Cidade (Araçatuba - SP)
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XJwhJA.png" group-title="Variedades", TV Gazeta (São Paulo - SP)
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxpeoAMvXwfwE_q7R6BxAr_Njqc8ATgAD32ooXv-0-3x)/dm/3/x89qors/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kIwcwIu.png" group-title="Católico", TV Evangelizar (Curitiba - PR)
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
@@ -99,7 +90,7 @@ https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHgMhX3.png" group-title="Variedades", TV Brasil 2 (Brasília - DF)
 https://nesuko.br2telecom.net/TV_Brasil2/index.m3u8?token=1mn72SrllwcQ1BRTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0d81GTt.png" group-title="Teste", Cultura (São Paulo - SP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0d81GTt.png" group-title="Variedades", Cultura (São Paulo - SP)
 https://d2qhruj0t6hrl2.cloudfront.net/out/v1/61062273f9104954931a9475761c5889/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4oFjm4.png" group-title="Agronegócios", Terraviva (São Paulo - SP)
@@ -112,25 +103,41 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWHLnp3.png" group-title="Variedades", TV Diário (Fortaleza - CE)
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZccWzpgluL6-6ffMDJI4ZMg8UVD_4cGXeogRN8DCT1Gi)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz7zoSL.png" group-title="Notícias", Record News - Rede SIM (Vitória - ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1599898908.gif" group-title="Agronegócios", Canal do Criador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1634066953.gif" group-title="Notícias", TV Jovem Pan News (São Paulo - SP)
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1567889182.gif" group-title="Católico", TV Pai Eterno (Mateus Leme - MG)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="Educativos", Canal Educação (Brasília - DF)
+https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls7meZndzXNXQ9V0kq4etCXwjVWaky5YQXPc83rbmMYwP)/dm/3/x8abdvf/s/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1619271794.gif" group-title="Educativos", Canal Saúde (Rio de Janeiro - RJ)
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1599898908.gif" group-title="Agronegócios", Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1610835382.gif" group-title="Agronegócios", TV MilAgro Brasil (São Paulo - SP)
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1567889182.gif" group-title="Católico", TV Pai Eterno (Mateus Leme - MG)
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2dFWUw.png" group-title="TV Estadual", Rede Minas - Cultura (Belo Horizonte - MG)
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDVyqjP.png" group-title="TV Estadual", TBC (Goiânia - GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GLl8G5v.png" group-title="TV Estadual", TVC (Fortaleza - CE)
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/chunklist.m3u8
+
+
+
 
 
 
@@ -316,6 +323,9 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MzDGFA5.png" group-title="Variedades", TV Gazeta - TV Alternativa (Paço do Lumiar - MA)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwo4t51.png" group-title="Variedades", TV Gazeta - TV Cidade (Araçatuba - SP)
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EW7jth.png" group-title="Variedades", TV Gazeta - TV Grão Pará (Belém - PA)
 https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8?t=1675598460
 
@@ -381,15 +391,6 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=24799029095351400
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J72kipv.png" group-title="TV Estadual", Rede Cultura do Pará (Belém - PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2dFWUw.png" group-title="TV Estadual", Rede Minas - Cultura (Belo Horizonte - MG)
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/livestream.m3u8?sts=st=1675790434~exp=1675877434~acl=/*~hmac=cad3a8975e8b2af8e5f29a9f198563d938ea89ad7581228187d253cc71e502ee
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wDVyqjP.png" group-title="TV Estadual", TBC (Goiânia - GO)
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GLl8G5v.png" group-title="TV Estadual", TVC (Fortaleza - CE)
-https://cdn.jmvstream.com/w/AVJ-12940/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uekkEr2.png" group-title="TV Estadual", TVE (Salvador - BA)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
