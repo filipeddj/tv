@@ -1,0 +1,421 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo (São Paulo - SP)
+https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O9XeSr.png" group-title="Variedades", SBT - TV Cidade Verde (Teresina - PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxETIyp.png" group-title="Variedades", TV Brasil (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Brasil/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9DeY9PY.png" group-title="Variedades", RedeTV! ES (Vitória - ES)
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LhxK28B.png" group-title="Variedades", Band - RBA TV (Belém - PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkm0NQu.png" group-title="Variedades", RecordTV - TV Amplitude (Juara - MT)
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3qfIU.png" group-title="Católico", Rede Vida (São José do Rio Preto - SP)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwo4t51.png" group-title="Variedades", TV Gazeta - TV Cidade (Araçatuba - SP)
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kIwcwIu.png" group-title="Católico", TV Evangelizar (Curitiba - PR)
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ufDh2N.png" group-title="TV Local", Amazon Sat (Belém - PA)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhq0HhY.png" group-title="Agronegócios", AgroBrasil TV (Campo Grande - MS)
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nadRhc5.png" group-title="Agronegócios", Canal do Boi (Campo Grande - MS)
+https://nesuko.br2telecom.net/Canal_Do_Boi/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEFCHmP.png" group-title="Variedades", Rede Brasil (São Paulo - SP)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQqVG2C.png" group-title="Educativos", TV Escola
+https://nesuko.br2telecom.net/TV_Escola/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRlgYMG.png" group-title="Educativos", Futura - Canal FDR (Fortaleza - CE)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WzazIox.png" group-title="Variedades", Rede Família (Limeira - SP)
+https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UvxMlhW.png" group-title="Televendas", TVD SHOP (Web)
+https://cdn-tvdshop.ciclano.io:1443/tvdshop/tvdshop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kycAcm.png" group-title="Variedades", PlayTV (São Paulo - SP)
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jByNPDA.png" group-title="Governamental", TV Câmara (Brasília - DF)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RchxDGb.png" group-title="Governamental", TV Senado (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Senado/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wATGtqd.png" group-title="Governamental", TV Justiça (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Justica/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PopC082.png" group-title="Católico", Rede Século 21 (Campinas - SP)
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6IeApQj.png" group-title="Agronegócios", Canal Rural (São Paulo - SP)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hv1g2yP.png" group-title="Espírita", RAETV (Web)
+https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5i9HYm.png" group-title="TV Estadual", Paraná Turismo (Curitiba - PR)
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PO8iztO.png" group-title="Televendas", CMD TV (Web)
+https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHgMhX3.png" group-title="Variedades", TV Brasil 2 (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Brasil2/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAiIfIO.png" group-title="Variedades", Cultura - CATVE (Cascavel - PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4oFjm4.png" group-title="Agronegócios", Terraviva (São Paulo - SP)
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rwn7kmP.png" group-title="Católico", TV Aparecida (Aparecida - SP)
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dz7zoSL.png" group-title="Notícias", Record News - Rede SIM (Vitória - ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1599898908.gif" group-title="Agronegócios", Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1567889182.gif" group-title="Católico", TV Pai Eterno (Mateus Leme - MG)
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592308109.gif" group-title="Educativos", Rede América (Pouso Alegre - MG)
+https://usher.ttvnw.net/api/channel/hls/redeamericatv.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=3792359&play_session_id=c9bc4ee9bfebeb80579003d65ef6fb97&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=af6d724651e546751a59a1c3416c668fceb77f30&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22redeamericatv%22%2C%22channel_id%22%3A438142344%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e91ed9879f3999e9%22%2C%22expires%22%3A1676047166%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.186.33.53%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.17.0
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1619271794.gif" group-title="Educativos", Canal Saúde (Rio de Janeiro - RJ)
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1610835382.gif" group-title="Agronegócios", TV MilAgro Brasil (São Paulo - SP)
+https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvcoOUU.png" group-title="Variedades", Life Channel Brasil
+https://cdn2.connectbr.com.br/life/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fBEBY3.png" group-title="Variedades", Central TV
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1OWBALs.png" group-title="Variedades", ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="", TV Brusque - Rede Brasil
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="", Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Elemental Channel
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TV RBC
+https://lkrqjdluqj.singularcdn.net.br/id2515/id2515/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV
+https://stream.urbantv.com.br/urbantv/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV Docs
+https://stream.urbantv.com.br/urbantvdocs/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV Kids
+https://stream.urbantv.com.br/urbantvkids/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV Movies
+https://stream.urbantv.com.br/urbantvmovies/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV Retro
+https://stream.urbantv.com.br/urbantvretro/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV Series
+https://stream.urbantv.com.br/urbantvseries/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV Travel
+https://stream.urbantv.com.br/urbantvtravel/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", Urban TV Turbo
+https://stream.urbantv.com.br/urbantvturbo/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", VV8
+https://video01.kshost.com.br:4443/seap8272/seap8272/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5Fp3pT.png" group-title="Variedades", SBT - Bem TV (Tangará da Serra - MT)
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8qNBGO.png" group-title="Variedades", SBT - TV Aratu (Salvador - BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuifRZm.png" group-title="Variedades", SBT Interior (Araçatuba - SP)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FysSHak.png" group-title="Variedades", SBT - Rede Massa - TV Cidade (Londrina - PR)
+https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FysSHak.png" group-title="Variedades", SBT - Rede Massa - TV Guará (Ponta Grossa - PR)
+https://cdn-cdn-guara.ciclano.io:1443/cdn-guara/cdn-guara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FysSHak.png" group-title="Variedades", SBT - Rede Massa - TV Iguaçu (Curitiba - PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FysSHak.png" group-title="Variedades", SBT - Rede Massa - TV Naipi (Foz do Iguaçu - PR)
+https://cdn-cdn-naipi.ciclano.io:1443/cdn-naipi/cdn-naipi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FysSHak.png" group-title="Variedades", SBT - Rede Massa - TV Tibagi (Maringá - PR)
+https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/liMmhFy.png" group-title="Arte, Cultura e Educação", TV Brasil - RBA TV Rio do Sul (Rio do Sul - SC)
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZehxTh.png" group-title="Arte, Cultura e Educação", TV Brasil - STZ TV (Sertãozinho - SP)
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcMsPv8.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Guarapari (Guarapari - ES)
+https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXnrXcN.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Sim (Vitória - ES)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXnrXcN.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Sim (Linhares - ES)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXnrXcN.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Sim (Colatina - ES)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/li95jDY.png" group-title="Arte, Cultura e Educação", TV Brasil - TV UFG (Goiânia - GO)
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iCciSVS.png" group-title="Arte, Cultura e Educação", TV Brasil - TV UFSC (Florianópolis - SC)
+https://tvaovivo.sites.ufsc.br/hls/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ta1biGZ.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Unisantos (Cubatão - SP)
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwjQBIf.png" group-title="Arte, Cultura e Educação", TV Brasil - TVBE (Joinville - SC)
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SdXUbK.png" group-title="Arte, Cultura e Educação", TV Brasil - TVU (Recife - PE)
+http://150.161.93.220/hls/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/knUOIS9.png" group-title="Variedades", RedeTV! - O Dia TV (Teresina - PI)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQWTQKN.png" group-title="Variedades", RedeTV! - TV Arapuan (João Pessoa - PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8jlLpB.png" group-title="Variedades", RedeTV! - TV Pampa (Porto Alegre - RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XH484hd.png" group-title="Variedades", RedeTV! Tocantins (Palmas - TO)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkm0NQu.png" group-title="Variedades", RecordTV - TV Amplitude (Juína - MT)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MzDGFA5.png" group-title="Variedades", TV Gazeta - TV Alternativa (Paço do Lumiar - MA)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EW7jth.png" group-title="Variedades", TV Gazeta - TV Grão Pará (Belém - PA)
+https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8?t=1675598460
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gpraWeU.png" group-title="Arte, Cultura e Educação", Futura - Unisc TV (Santa Cruz do Sul - RS)
+https://tv.unisc.br/hls/test.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GJOiKmj.png" group-title="Arte, Cultura e Educação", Cultura - Canal 38 (Apucarana - PR)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzHuy3v.png" group-title="Arte, Cultura e Educação", Cultura - TV Futuro (Natal - RN)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClIRNTf.png" group-title="Arte, Cultura e Educação", Cultura - TV Guará (São Luís - MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1051206659.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHpwhzn.png" group-title="Arte, Cultura e Educação", Cultura - TV Mais (Cuiabá - MT)
+http://sevensp.homelinux.com/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MVlJivB.png" group-title="Arte, Cultura e Educação", Cultura - TV Poços (Poços de Caldas - MG)
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ARkYFzI.png" group-title="Arte, Cultura e Educação", Cultura - TVC Panorama (Balneário Camboriú - SC)
+https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EN2jCOE.png" group-title="Arte, Cultura e Educação", Cultura - UNI TV (Tubarão - SC)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=2479902909535140000
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J72kipv.png" group-title="TV Estadual", Rede Cultura do Pará (Belém - PA)
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2dFWUw.png" group-title="TV Estadual", Rede Minas - Cultura (Belo Horizonte - MG)
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/livestream.m3u8?sts=st=1675790434~exp=1675877434~acl=/*~hmac=cad3a8975e8b2af8e5f29a9f198563d938ea89ad7581228187d253cc71e502ee
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDVyqjP.png" group-title="TV Estadual", TBC (Goiânia - GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GLl8G5v.png" group-title="TV Estadual", TVC (Fortaleza - CE)
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uekkEr2.png" group-title="TV Estadual", TVE (Salvador - BA)
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHmT0N7.png" group-title="TV Estadual", TVE (Porto Alegre - RS)
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBmA0Q.png" group-title="Arte, Cultura e Educação", Master TV (Cascavel - PR)
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YRkk8EC.png" group-title="TV Local", TV Candidés (Belém - PA)
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBfpGG2.png" group-title="TV Local", TV Nova (Recife - PE)
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jL8jLZP.png" group-title="TV Local", TV Plan (Poços de Caldas - MG)
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dTuZ1Sz.png" group-title="TV Local", GNM - Culura e Rede Minas  (Montes Claros - MG)
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NSW9hL.png" group-title="TV Local", TV Diversa - TV Brasil e Rede Minas (Barroso - MG)
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=3439856817150279700
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sce6DVU.png" group-title="TV Local", TV Beltrão - TV Brasil e TV Evangelizar (Francisco Beltrão - PR)
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KAL5DOA.png" group-title="TV Local", RTV - TV Brasil (Criciúma - SC)
+https://5b7f3c45ab7c2.streamlock.net/9014/9014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3saqXYX.png" group-title="TV Local", TV Bom - TV Brasil (Bom Jesus de Goiás - GO)
+https://streaming.wcserver.com.br/LiveApp/streams/988650751578095659158988.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+
