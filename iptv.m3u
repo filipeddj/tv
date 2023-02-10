@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo MG (Belo Horizonte - MG)
-https://server100.online/globo-mg/video.m3u8?token=90bb24b2df218e803e0cbe773f871487cf98a320-ecc2b33133c3e71d645d603e7ca6ed28-1676058083-1676050883
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo (São Paulo - SP)
 https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
 
@@ -110,7 +107,7 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592308109.gif" group-title="Educativos", Rede América (Pouso Alegre - MG)
-https://usher.ttvnw.net/api/channel/hls/redeamericatv.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=3792359&play_session_id=c9bc4ee9bfebeb80579003d65ef6fb97&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=af6d724651e546751a59a1c3416c668fceb77f30&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22redeamericatv%22%2C%22channel_id%22%3A438142344%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e91ed9879f3999e9%22%2C%22expires%22%3A1676047166%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.186.33.53%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.17.0
+https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CpwFP5f0Dfy1x8vonqlZkfcuHYzqmCTo36Pgj9WvHRpKzvHqjWF4yDrl_c6e_gMSB76gI-kgxB77dwaA7Wsw1RTrQaTrIOIEiPaCu0pjseiupLrUY4pj57XW1YiAqHikigENDtxRWF6ytF7L78rv_keBLvnkpzdQqLudyvq-8YHz4rD4Vcn8J5JMH8edOkj4lHyvN3Nf5RK1OKcjZAklDYoA6-BcqIlwNFMv5DY2-xUvOeItecfF8D2S39YqsshdO2tLEeuIeBG4_TRIE3xPEOXzYlo8988C-6hWmxqWtTDblfVoUiHxH0E5p6VGzvKG8RyA0qeFxYHEgEY0rti9cHRL3tbTRWGfFZ2nmPxCOZQFymvqARHjTSs9sACB8V5a-8uyyfE9seME5ZUJVtvfF7wA9gqLQFFCnHHUi5zqP-PSLmx8uaxk3cVLu-fy3ELGqGKpxzWYOrj9ONvfBH7Z3aV4Bg6SqplI34ibW9WlkT9kjvlNCHJBOh5GbDjRXe0t8Bto4t74hUYXbekvx8TOYngwxWpsqtjSbPlSWNFYRiiJmnONW6Zf-O1mv4M8ZtPzyaAfIlAIMUb0-N3qNcj1-bjd81Le-suQ64oMAHsQd6GCFCmccWAk4xJ0-7pqYDX42Z-n3olN2wyml304eA312jPw5RewpT8706-Lv8p1HF5bNHxb9gY5yY8j6rZMGmaIGudbviPl6jmiBV-eZ_YPVmQ_RLbcjnMKrqFogU9mKr2ivpJTlxa93JjlJKjVeivQMH_gx4Y-ysSrDgyD69rTQqL9VVlbhsa4aFt6gBVfqE3cfmjAWZTjdj095GiA-PrYC-Kv-O8kKU9Lcs2X1BfJi0L1vlqZkZqh8TEDfPcqlXoBGB8tUkcVhapz3dwGdWEaDCcE79nIfkqMtGx4byABKgl1cy1lYXN0LTEwoAQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1619271794.gif" group-title="Educativos", Canal Saúde (Rio de Janeiro - RJ)
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -181,7 +178,13 @@ https://video01.kshost.com.br:4443/seap8272/seap8272/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo MG (Belo Horizonte - MG)
+https://server100.online/globo-mg/video.m3u8?token=90bb24b2df218e803e0cbe773f871487cf98a320-ecc2b33133c3e71d645d603e7ca6ed28-1676058083-1676050883
 
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="Variedades", Conferir SBT 
+https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=I3m8_uq8CkGFn3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5Fp3pT.png" group-title="Variedades", SBT - Bem TV (Tangará da Serra - MT)
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
