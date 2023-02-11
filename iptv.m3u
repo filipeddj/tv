@@ -6,6 +6,8 @@ https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=I3m8_uq8CkGFn3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9OfLaI8.png" group-title="Teste", TVT (São Paulo - SP)
 https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GzCt5yDt8LBlByj5565ffQhbs9gsrZCTtLotaXrXnRe5)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="Teste", SBT (?)
+https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=1mn72SrllwcQ1BRTV
 
 
 
