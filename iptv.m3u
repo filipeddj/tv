@@ -43,6 +43,9 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="Nacional", RecordTV - TV Amplitude (Juara - MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="Nacional", Record News ES (Cachoeiro de Itapemirim - ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
 
 
 
@@ -85,6 +88,36 @@ https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592133626.gif" group-title="Minas Gerais", TV Candidés (Divinópolis - MG)
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1587312584.gif" group-title="Espírito Santo", RedeTV! ES (Vitória - ES)
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592305310.gif" group-title="Espírito Santo", TV Guarapari - Rede Minas (Guarapari - ES)
+https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Colatina - ES)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Linhares - ES)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (São Mateus - ES)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Cachoeiro de Itapemirim - ES)
+https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvambiental.gif" group-title="Espírito Santo", TV Ambiental (Vitória - ES)
+https://video01.logicahost.com.br/vitoriambiental/vitoriambiental/playlist.m3u8
+
+
+
+
+
 
 
 
@@ -292,18 +325,6 @@ https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZehxTh.png" group-title="Arte, Cultura e Educação", TV Brasil - STZ TV (Sertãozinho - SP)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kcMsPv8.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Guarapari (Guarapari - ES)
-https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXnrXcN.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Sim (Vitória - ES)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXnrXcN.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Sim (Linhares - ES)
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HXnrXcN.png" group-title="Arte, Cultura e Educação", TV Brasil - TV Sim (Colatina - ES)
-https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/li95jDY.png" group-title="Arte, Cultura e Educação", TV Brasil - TV UFG (Goiânia - GO)
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
 
@@ -342,13 +363,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XH484hd.png" group-title="Variedades", RedeTV! Tocantins (Palmas - TO)
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9DeY9PY.png" group-title="Variedades", RedeTV! ES (Vitória - ES)
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
-
-
-
-
 
 
 
