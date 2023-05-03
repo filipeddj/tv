@@ -27,6 +27,7 @@ https://stream.urbantv.com.br/urbantvretro/video.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Nacional", Globo (São Paulo - SP)
 https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
 
@@ -76,25 +77,34 @@ https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592133626.gif" group-title="Minas Gerais", TV Candidés (Divinópolis - MG)
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d77f4c2445793f3e10d48a08af402785.webp" group-title="Minas Gerais", Web TV Rio Grande (Fronteira - MG)
-https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9cbb8a05f94f745577bbc41c0c2381.webp" group-title="Minas Gerais", Web TV News ETC (Belo Horizonte - MG)
-https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9514dee5d4273ab2994c512f54ee0f.webp" group-title="Minas Gerais", Web TV Empire (Uberlândia - MG)
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/04a815c476cf07daacfa91472459a5d5.webp" group-title="WEB", 7 TVS (Variedades)
+https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9514dee5d4273ab2994c512f54ee0f.webp" group-title="WEB", Empire TV (Variedades)
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3a7e62603bebaa8b6b453b3b69b948.webp" group-title="Minas Gerais", Web TV Cidade (Janauba - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e88e1950283368c120eafef714100a94.webp" group-title="WEB", Seven TV (Variedades)
+https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3a7e62603bebaa8b6b453b3b69b948.webp" group-title="WEB", TV Cidade Janauba (Variedades)
 https://video01.kshost.com.br/joao5713/joao5713/playlist.m3u8?t=1683132228
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV em Foco Dos Vales (Variedades)
+https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9cbb8a05f94f745577bbc41c0c2381.webp" group-title="WEB", TV News ETC (Variedades)
+https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d77f4c2445793f3e10d48a08af402785.webp" group-title="WEB", TV Rio Grande (Variedades)
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/04a815c476cf07daacfa91472459a5d5.webp" group-title="WEB", 7 TVS (Filmes)
-https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87c70becfac4198cd294a34885e4b7fe.webp" group-title="WEB", TV Balcão (Filmes)
 https://cdn.jmvstream.com/w/AVJ-12972/playlist/playlist.m3u8
@@ -105,20 +115,26 @@ https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/693d5c8a367fb550e1af7e8de03d7bc8.webp" group-title="WEB", TV WTJMINAS (Filmes)
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e88e1950283368c120eafef714100a94.webp" group-title="WEB", Web Seven TV (Series)
-https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV Recanto da Fé (Retro)
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV em Foco Dos Vales (Música)
-https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="WEB", TV Paracatu (Música)
 https://a.cdni.live/webtvparacatu/webtvparacatu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.allegrowebtv.com.br/gallery_gen/13a06f20fe8dbf05111d4cd51d867825_346x346.png" group-title="WEB", Web TV ALLEGRO (Música)
 https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="WEB", Web RS News Sports 1 (Esportes)
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
@@ -135,17 +151,12 @@ https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/141ef6c06e0bc402f5f5f7685deef943.webp" group-title="WEB", Web RS News Sports 5 (Esportes)
 https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ea9a2bbca65ad3fa175b52e4704720c9.webp" group-title="WEB", Canal Sete (Agro)
 https://nsmaiscdn.multtv.tv.br:7443/sd/NS_CSETE.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
