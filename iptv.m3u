@@ -135,6 +135,9 @@ https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e88e1950283368c120eafef714100a94.webp" group-title="WEB", Seven TV (Variedades)
 https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.allegrowebtv.com.br/gallery_gen/13a06f20fe8dbf05111d4cd51d867825_346x346.png" group-title="WEB", TV ALLEGRO (Variedades)
+https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87c70becfac4198cd294a34885e4b7fe.webp" group-title="WEB", TV Balcão (Variedades)
 https://cdn.jmvstream.com/w/AVJ-12972/playlist/playlist.m3u8
 
@@ -150,28 +153,17 @@ https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegma
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9cbb8a05f94f745577bbc41c0c2381.webp" group-title="WEB", TV News ETC (Variedades)
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="WEB", TV Paracatu (Variedades)
+https://a.cdni.live/webtvparacatu/webtvparacatu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV Recanto da Fé (Variedades)
+https://stmv1.srvif.com/2022/2022/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d77f4c2445793f3e10d48a08af402785.webp" group-title="WEB", TV Rio Grande (Variedades)
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/693d5c8a367fb550e1af7e8de03d7bc8.webp" group-title="WEB", TV WTJMINAS (Variedades)
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV Recanto da Fé (Filmes)
-https://stmv1.srvif.com/2022/2022/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="WEB", TV Paracatu (Música)
-https://a.cdni.live/webtvparacatu/webtvparacatu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.allegrowebtv.com.br/gallery_gen/13a06f20fe8dbf05111d4cd51d867825_346x346.png" group-title="WEB", Web TV ALLEGRO (Música)
-https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/playlist.m3u8
 
 
 
