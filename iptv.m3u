@@ -27,6 +27,8 @@ https://stream.urbantv.com.br/urbantvretro/video.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Nacional", Globo (São Paulo - SP)
+https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvalterosa.gif" group-title="Nacional", SBT - TV Alterosa Leste (Manhuaçu - MG)
 https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=1mn72SrllwcQ1BRTV
@@ -40,6 +42,12 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Minas Gerais", TV Assembleia MG (Belo Horizonte - MG)
 https://streaming.almg.gov.br/live/tvalmg.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1572242112.gif" group-title="Minas Gerais", (H) TV Paranaiba - Record (Uberlândia - MG)
+https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f20c6fce3c15cb559ce7fbc131494c5f.webp" group-title="Minas Gerais", brSuperTV - RBTV (Pará de Minas - MG)
+http://177.137.208.46:9080/hls/brsupertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvpocos.gif" group-title="Minas Gerais", TV Poços - TV Cultura (Poços de Caldas - MG)
 https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
@@ -65,95 +73,81 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/play
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvsetelagoas.gif" group-title="Minas Gerais", TV Sete Lagoas - Com Brasil (Sete Lagoas - MG)
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/693d5c8a367fb550e1af7e8de03d7bc8.webp" group-title="Minas Gerais", WebTV WTJMINAS (Belo Horizonte - MG)
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ea9a2bbca65ad3fa175b52e4704720c9.webp" group-title="Minas Gerais", Canal Sete (São Sebastião do Paraíso - MG)
-https://nsmaiscdn.multtv.tv.br:7443/sd/NS_CSETE.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592133626.gif" group-title="Minas Gerais", TV Candidés (Divinópolis - MG)
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f20c6fce3c15cb559ce7fbc131494c5f.webp" group-title="Minas Gerais", Web brSuperTV - RBTV (Pará de Minas - MG)
-http://177.137.208.46:9080/hls/brsupertv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/04a815c476cf07daacfa91472459a5d5.webp" group-title="Minas Gerais", Web 7 TVS (Monte Belo - MG)
-https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e88e1950283368c120eafef714100a94.webp" group-title="Minas Gerais", Web Seven TV (Sete Lagoas - MG)
-https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87c70becfac4198cd294a34885e4b7fe.webp" group-title="Minas Gerais", Web TV Balcão (Belo Horizonte - MG)
-https://cdn.jmvstream.com/w/AVJ-12972/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169e701c2f9254615f1b3ec408dec764.webp" group-title="Minas Gerais", Web TV Cidade (Tiradentes - MG)
-https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="Minas Gerais", Web TV Recanto da Fé (São Sebastião do Paraíso - MG)
-https://stmv1.srvif.com/2022/2022/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="Minas Gerais", Web TV em Foco Dos Vales (Sabinópolis - MG)
-https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="Minas Gerais", Web TV Paracatu (Paracatu - MG)
-https://a.cdni.live/webtvparacatu/webtvparacatu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d77f4c2445793f3e10d48a08af402785.webp" group-title="Minas Gerais", Web TV Rio Grande (Fronteira - MG)
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9cbb8a05f94f745577bbc41c0c2381.webp" group-title="Minas Gerais", WebTV News ETC (Belo Horizonte - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9cbb8a05f94f745577bbc41c0c2381.webp" group-title="Minas Gerais", Web TV News ETC (Belo Horizonte - MG)
 https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9514dee5d4273ab2994c512f54ee0f.webp" group-title="Minas Gerais", Web Empire (Uberlândia - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9514dee5d4273ab2994c512f54ee0f.webp" group-title="Minas Gerais", Web TV Empire (Uberlândia - MG)
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3a7e62603bebaa8b6b453b3b69b948.webp" group-title="Minas Gerais", Web TV Cidade (Janauba - MG)
 https://video01.kshost.com.br/joao5713/joao5713/playlist.m3u8?t=1683132228
 
-#EXTINF:-1 tvg-logo="https://www.allegrowebtv.com.br/gallery_gen/13a06f20fe8dbf05111d4cd51d867825_346x346.png" group-title="Minas Gerais", Web TV ALLEGRO (Diamantina - MG)
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/04a815c476cf07daacfa91472459a5d5.webp" group-title="WEB", 7 TVS (Filmes)
+https://stmv1.samcast.com.br/7tvs/7tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87c70becfac4198cd294a34885e4b7fe.webp" group-title="WEB", TV Balcão (Filmes)
+https://cdn.jmvstream.com/w/AVJ-12972/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169e701c2f9254615f1b3ec408dec764.webp" group-title="WEB", TV Cidade Tiradentes (Filmes)
+https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/693d5c8a367fb550e1af7e8de03d7bc8.webp" group-title="WEB", TV WTJMINAS (Filmes)
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e88e1950283368c120eafef714100a94.webp" group-title="WEB", Web Seven TV (Series)
+https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV Recanto da Fé (Retro)
+https://stmv1.srvif.com/2022/2022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV em Foco Dos Vales (Música)
+https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="WEB", TV Paracatu (Música)
+https://a.cdni.live/webtvparacatu/webtvparacatu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.allegrowebtv.com.br/gallery_gen/13a06f20fe8dbf05111d4cd51d867825_346x346.png" group-title="WEB", Web TV ALLEGRO (Música)
 https://video05.logicahost.com.br/allegrowebtv/allegrowebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="Minas Gerais", Web RS News Sports 1 (Pará de Minas - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="WEB", Web RS News Sports 1 (Esportes)
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a9158128f33e2a329ae8296ec8e3574.webp" group-title="Minas Gerais", Web RS News Sports 2 (Pará de Minas - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a9158128f33e2a329ae8296ec8e3574.webp" group-title="WEB", Web RS News Sports 2 (Esportes)
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0be4bef041b92bda1e3232291c3c9e1.webp" group-title="Minas Gerais", Web RS News Sports 3 (Pará de Minas - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0be4bef041b92bda1e3232291c3c9e1.webp" group-title="WEB", Web RS News Sports 3 (Esportes)
 https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a19ac1ef09ac9cea39a5fcfe6c3900be.webp" group-title="Minas Gerais", Web RS News Sports 4 (Pará de Minas - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a19ac1ef09ac9cea39a5fcfe6c3900be.webp" group-title="WEB", Web RS News Sports 4 (Esportes)
 https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/141ef6c06e0bc402f5f5f7685deef943.webp" group-title="Minas Gerais", Web RS News Sports 5 (Pará de Minas - MG)
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/141ef6c06e0bc402f5f5f7685deef943.webp" group-title="WEB", Web RS News Sports 5 (Esportes)
 https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1572242112.gif" group-title="Minas Gerais", (H) TV Paranaiba - Record (Uberlândia - MG)
-https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ea9a2bbca65ad3fa175b52e4704720c9.webp" group-title="WEB", Canal Sete (Agro)
+https://nsmaiscdn.multtv.tv.br:7443/sd/NS_CSETE.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -169,8 +163,7 @@ https://caikron.com.br:19360/tvandradas/tvandradas.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Variedades", Globo (São Paulo - SP)
-https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5tzr2u.png" group-title="Variedades", RedeTV! (São Paulo - SP)
 https://nesuko.br2telecom.net/RedeTV/index.m3u8?token=1mn72SrllwcQ1BRTV
