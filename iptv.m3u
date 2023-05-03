@@ -28,7 +28,7 @@ https://stream.urbantv.com.br/urbantvretro/video.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHi05Hy.png" group-title="Nacional", Globo (São Paulo - SP)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1641014686.gif" group-title="Nacional", Globo (São Paulo - SP)
 https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvalterosa.gif" group-title="Nacional", SBT - TV Alterosa Leste (Manhuaçu - MG)
