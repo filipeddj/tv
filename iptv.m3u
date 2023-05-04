@@ -159,6 +159,9 @@ https://stmv3.voxtvhd.com.br/1213/1213/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="WEB", Tv Nova Play (Filmes)
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="WEB", Tv Carioca (Filmes e Variedades)
+https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169e701c2f9254615f1b3ec408dec764.webp" group-title="WEB", TV Cidade Tiradentes (Filmes e Variedades)
 https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/playlist.m3u8
 
@@ -251,9 +254,6 @@ https://stream.skyspace.com.br:3831/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87c70becfac4198cd294a34885e4b7fe.webp" group-title="WEB", TV Balcão (Variedades)
 https://cdn.jmvstream.com/w/AVJ-12972/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="WEB", Tv Carioca (Variedades)
-https://stmv1.duvoxtv.com.br/tvcarioca/tvcarioca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3a7e62603bebaa8b6b453b3b69b948.webp" group-title="WEB", TV Cidade Janauba (Variedades)
 https://video01.kshost.com.br/joao5713/joao5713/playlist.m3u8?t=1683132228
