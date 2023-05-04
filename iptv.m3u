@@ -153,10 +153,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="WEB", Tv Nova Play (Filmes)
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV Recanto da Fé (Filmes e Variedades)
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
 
@@ -172,6 +168,9 @@ https://stmv2.centralcast.com.br/central/central/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34afdf0657bf5883ad46b496fadd2541.webp" group-title="WEB", Tv Rádio Litoral (Música)
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="WEB", TV Paracatu (Música e Variedades)
+https://a.cdni.live/webtvparacatu/webtvparacatu/playlist.m3u8
 
 
 
@@ -273,9 +272,6 @@ https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c5821f37b7c34b76529c85902cbf6322.webp" group-title="WEB", Tv Opção (Variedades)
 https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="WEB", TV Paracatu (Variedades)
-https://a.cdni.live/webtvparacatu/webtvparacatu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7504cda1699120216982a5b487a3fb3e.webp" group-title="WEB", Tv Pop Brasil (Variedades)
 https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
