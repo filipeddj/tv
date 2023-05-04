@@ -271,6 +271,13 @@ https://video01.logicahost.com.br/nelio/nelio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7504cda1699120216982a5b487a3fb3e.webp" group-title="WEB", Tv Pop Brasil (Variedades)
 https://stmv5.samcast.com.br/manoel7427/manoel7427/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d77f4c2445793f3e10d48a08af402785.webp" group-title="WEB", TV Rio Grande (Variedades)
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a64ea45490e42dfa04a4b8acc710323a.webp" group-title="WEB", TVC 16 - Tv Cidade Petrópolis (Variedades)
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+
+
 
 
 
@@ -286,35 +293,6 @@ https://video01.kshost.com.br/joao5713/joao5713/playlist.m3u8?t=1683132228
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/343eeb4ef1b772d8727b9e450590081c.webp" group-title="WEB", Tv Mais Maricá (Variedades)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d77f4c2445793f3e10d48a08af402785.webp" group-title="WEB", TV Rio Grande (Variedades)
-https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a64ea45490e42dfa04a4b8acc710323a.webp" group-title="WEB", TVC 16 - Tv Cidade Petrópolis (Variedades)
-https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
