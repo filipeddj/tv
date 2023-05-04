@@ -159,6 +159,9 @@ https://stmv3.voxtvhd.com.br/1213/1213/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="WEB", Tv Nova Play (Filmes)
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169e701c2f9254615f1b3ec408dec764.webp" group-title="WEB", TV Cidade Tiradentes (Filmes e Variedades)
+https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV Recanto da Fé (Filmes e Variedades)
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
 
@@ -257,9 +260,6 @@ https://video01.kshost.com.br/joao5713/joao5713/playlist.m3u8?t=1683132228
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2159c8eff61de39cd26fd982794649f5.webp" group-title="WEB", TV Cidade São João de Meriti (Variedades)
 https://stream.ichibantv.com/p/3827/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169e701c2f9254615f1b3ec408dec764.webp" group-title="WEB", TV Cidade Tiradentes (Variedades)
-https://stmv7.samcast.com.br/tvcidadetiradentes/tvcidadetiradentes/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6b1862b936c5007ad591b7fffb153e0.webp" group-title="WEB", TV em Foco Dos Vales (Variedades)
 https://5ad482a77183d.streamlock.net/pedroavilacampegmail.com/pedroavilacampegmail.com/playlist.m3u8
