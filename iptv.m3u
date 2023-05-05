@@ -52,8 +52,23 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Nacional", TV Aparecida (Aparecida - SP)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvpadrecicero.gif" group-title="Nacional", TV Padre Cícero (Juazeiro do Norte - CE)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="Nacional", PlayTV (São Paulo - SP)
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="Nacional", Rede Brasil (São Paulo - SP)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1579273476.gif" group-title="Nacional", Life Channel Brasil (Adamantina - SP)
+https://cdn2.connectbr.com.br/life/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/centraltv.gif" group-title="Nacional", CentralTV (Curitiba - PR)
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/1583103352.gif" group-title="Nacional", ISTV (Guarujá - SP)
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/gazeta.gif" group-title="Nacional", TV Gazeta - TV Cidade (Araçatuba - SP)
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
@@ -105,6 +120,14 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1574361045.gif" group-title="Paraná", TV Paraná Turismo (Curitiba - PR)
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+
+
+
+
+
+
+
 
 
 
