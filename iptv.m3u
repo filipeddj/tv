@@ -82,6 +82,9 @@ https://d28367vmhj4ljz.cloudfront.net/out/v1/60afbd200f12447ea25ddfb39baf8d09/in
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1665108144.gif" group-title="Nacional", Futura - Canal FDR (Fortaleza - CE)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/1619271794.gif" group-title="Educativo", Canal Saúde (Rio de Janeiro - RJ)
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="Nacional", Canal Educação (Brasilia - DF)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
