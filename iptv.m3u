@@ -61,6 +61,9 @@ https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="Nacional", Rede Brasil (São Paulo - SP)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635963589.gif" group-title="Minas Gerais", RBTV - brSuperTV (Pará de Minas - MG)
+http://177.137.208.46:9080/hls/brsupertv.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1579273476.gif" group-title="Nacional", Life Channel Brasil (Adamantina - SP)
 https://cdn2.connectbr.com.br/life/index.m3u8
 
@@ -107,7 +110,8 @@ https://stream3.camara.gov.br/tv3/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Minas Gerais", Rede Minas (Belo Horizonte - MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Minas Gerais", TV Assembleia MG (Belo Horizonte - MG)
+https://streaming.almg.gov.br/live/tvalmg.m3u8
 
 
 
