@@ -25,20 +25,104 @@ https://stream.urbantv.com.br/urbantvtravel/video.m3u8
 https://stream.urbantv.com.br/urbantvretro/video.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1641014686.gif" group-title="Nacional", Globo (Teste)
-https://znk659y3k1elfwl.clarocdn.com.br/Content/Channel/GVDGLHD/dsc3/stream_03/Segment-3843166805694164.m4v
+
+
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1641014686.gif" group-title="Nacional", Globo (São Paulo - SP)
 https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvalterosa.gif" group-title="Nacional", SBT - TV Alterosa Leste (Governador Valadares - MG)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="Nacional", SBT - TV Alterosa Leste (Governador Valadares - MG)
 https://nesuko.br2telecom.net/SBT_NACIONAL/video.m3u8?token=1mn72SrllwcQ1BRTV
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1574361045.gif" group-title="Nacional", TV Brasil (Brasília - DF)
-https://nesuko.br2telecom.net/TV_Brasil/video.m3u8?token=1mn72SrllwcQ1BRTV
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1573490506.gif" group-title="Nacional", RedeTV! (São Paulo - SP)
 https://nesuko.br2telecom.net/RedeTV/index.m3u8?token=1mn72SrllwcQ1BRTV
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rbatv.gif" group-title="Nacional", Band - RBA TV (Belém - PA)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1674858982.gif" group-title="Nacional", Band Minas (Belo Horizonte - MG)
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/recordtv.gif" group-title="Nacional", RecordTV - TV Amplitude (Juara - MT)
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="Nacional", Record News ES (Cachoeiro de Itapemirim - ES)
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/redefamilia.gif" group-title="Nacional", Rede Família (Limeira - SP)
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Nacional", TV Aparecida (Aparecida - SP)
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="Nacional", PlayTV (São Paulo - SP)
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/gazeta.gif" group-title="Nacional", TV Gazeta - TV Cidade (Araçatuba - SP)
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Nacional", Cultura (São Paulo - SP)
+https://d28367vmhj4ljz.cloudfront.net/out/v1/60afbd200f12447ea25ddfb39baf8d09/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1665108144.gif" group-title="Nacional", Futura - Canal FDR (Fortaleza - CE)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1574361045.gif" group-title="Nacional", TV Brasil (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Brasil/video.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1569807716.gif" group-title="Nacional", TV Brasil 2 (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Brasil2/video.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1619270644.gif" group-title="Nacional", TV Justiça (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Justica/video.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvsenado.gif" group-title="Nacional", TV Senado (Brasília - DF)
+https://nesuko.br2telecom.net/TV_Senado/video.m3u8?token=1mn72SrllwcQ1BRTV
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="Nacional", TV Câmara (Brasília - DF)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="Nacional", TV Câmara 2 (Brasília - DF)
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="Nacional", TV Câmara 3 (Brasília - DF)
+https://stream3.camara.gov.br/tv3/manifest.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1654838239.gif" group-title="Amazonas", Amazon Sat (Manaus - AM)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1674858982.gif" group-title="Pará", Band - RBA TV (Belém - PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1574361045.gif" group-title="Paraná", TV Paraná Turismo (Curitiba - PR)
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
