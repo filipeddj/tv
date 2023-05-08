@@ -141,6 +141,33 @@ https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1587312584.gif" group-title="Espírito Santo", RedeTV! ES (Vitória - ES)
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592305310.gif" group-title="Espírito Santo", TV Guarapari - Rede Minas e TV Brasil (Guarapari - ES)
+https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Colatina - ES)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Linhares - ES)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (São Mateus - ES)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Cachoeiro de Itapemirim - ES)
+https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvambiental.gif" group-title="Espírito Santo", TV Ambiental (Vitória - ES)
+https://video01.logicahost.com.br/vitoriambiental/vitoriambiental/playlist.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/1626169998.gif" group-title="Goiás", Cultura - TBC (Goiânia - GO)
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 
