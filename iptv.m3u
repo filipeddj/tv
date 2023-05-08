@@ -170,12 +170,24 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/master.gif" group-title="Paraná", Master TV (Cascavel - PR)
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="Variedades", TV Cidade - SBT (Londrina - PR)
+https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="Variedades", TV Guará - SBT (Ponta Grossa - PR)
+https://cdn-cdn-guara.ciclano.io:1443/cdn-guara/cdn-guara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="Variedades", TV Naipi - SBT (Foz do Iguaçu - PR)
+https://cdn-cdn-naipi.ciclano.io:1443/cdn-naipi/cdn-naipi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="Variedades", TV Tibagi - SBT (Maringá - PR)
+https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/playlist.m3u8
 
 
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvers.gif" group-title="Rio Grande do Sul", TVE (Porto Alegre - RS)
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
 
 
