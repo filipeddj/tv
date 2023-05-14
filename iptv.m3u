@@ -36,7 +36,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 http://177.137.208.46:9080/hls/brsupertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/1583103352.gif" group-title="Nacional", ISTV (Guarujá - SP)
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/centraltv.gif" group-title="Nacional", CentralTV (Curitiba - PR)
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
