@@ -45,6 +45,26 @@ https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1686093222.gif" group-title="Variedades", Eveon TV
 https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1684089595.gif" group-title="Variedades", Roraima TV
+https://video01.soultv.com.br/roraimatv/roraimatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1683330726.gif" group-title="Variedades", TV Alagoinha
+https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1628790997.gif" group-title="Variedades", Imperial TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1637848543.gif" group-title="Filmes", GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1628791077.gif" group-title="Filmes", Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635963589.gif" group-title="Nacional", brSuperTV
+http://177.137.208.46:9080/hls/brsupertv.m3u8
+
+
+
 
 
 
@@ -79,8 +99,7 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="Nacional", Rede Brasil (São Paulo - SP)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635963589.gif" group-title="Nacional", RBTV - brSuperTV (Pará de Minas - MG)
-http://177.137.208.46:9080/hls/brsupertv.m3u8
+
 
 
 
