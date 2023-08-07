@@ -12,8 +12,8 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1649272209.gif" group-title="Lifestile", U Miss
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1649272209.gif" group-title="Kids", Kids Mais
-https://player-teste.cdn.tv.br/media/n/BZe2mJuWy2GXody4ndeW/a/playlist.m3u8?ch=BZe2mJuWy2GXody4ndeW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTEzODc0MTgsImlhdCI6MTY5MTM2OTQxOCwic3ViIjoicGxheWVyLXRlc3RlLmNkbi50di5iciMxNjg1NzI3MTQwIn0.kK-Vr-ecvyUP2izenUt2Dyhk13gMlETrpD9TuTjSIaY
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1652177752.gif" group-title="Infantil", Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1583103352.gif" group-title="Variedades", ISTV
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
@@ -21,8 +21,29 @@ https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691079322.gif" group-title="Agro", TV Folha do Campo
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1688515580.gif" group-title="Variedades", Veza TV
+https://vezatv.mediastreaming.com.br/vezatv/live.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1674728854.gif" group-title="Variedades", TV Onix
+https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="Variedades", PlayTV
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1573745170.gif" group-title="Variedades", PixTV
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1588632450.gif" group-title="Variedades", TV Nova Nordeste
+https://live.comets.com.br/tvnovanordeste_224/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1686595398.gif" group-title="Variedades", TV Nova MT
+https://video01.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1654079383.gif" group-title="Variedades", Canal TVC
+https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1686093222.gif" group-title="Variedades", Eveon TV
+https://video05.logicahost.com.br/eveontv/eveontv/playlist.m3u8
 
 
 
@@ -51,8 +72,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/gazeta.gif" group-title="Nacional", TV Gazeta - TV Cidade (Araçatuba - SP)
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="Nacional", PlayTV (São Paulo - SP)
-https://live.mediastreaming.com.br/playtvhd/playtv.stream/playlist.m3u8
+
 
 
 
@@ -315,8 +335,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1652177752.gif" group-title="Infantil", Kids Mais
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Infantil", Anime Tv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
