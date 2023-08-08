@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1596599763.gif" group-title="Urban TV", Urban TV
+https://stream.urbantv.com.br/urbantv/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781266.gif" group-title="Urban TV", Urban TV Kids
+https://stream.urbantv.com.br/urbantvkids/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781483.gif" group-title="Urban TV", Urban TV Movies
+https://stream.urbantv.com.br/urbantvmovies/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781547.gif" group-title="Urban TV", Urban TV Series
+https://stream.urbantv.com.br/urbantvseries/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781154.gif" group-title="Urban TV", Urban TV Docs
+https://stream.urbantv.com.br/urbantvdocs/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1639489070.gif" group-title="Urban TV", Urban TV Turbo
+https://stream.urbantv.com.br/urbantvturbo/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658775480.gif" group-title="Urban TV", Urban TV Travel
+https://stream.urbantv.com.br/urbantvtravel/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658775550.gif" group-title="Urban TV", Urban TV Retro
+https://stream.urbantv.com.br/urbantvretro/video.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/operadoras/1624023197.gif" group-title="Subscriber Channel", Soul TV
 https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
 
@@ -63,8 +89,23 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635963589.gif" group-title="Nacional", brSuperTV
 http://177.137.208.46:9080/hls/brsupertv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1624024584.gif" group-title="Variedades", TV Sonata
+https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1639401359.gif" group-title="Variedades", AWTV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvgrandenatal.gif" group-title="Variedades", TV Grande Natal
+https://canalteste.duckdns.org/app/tvgrandenatalhdtv/llhls.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1630674358.gif" group-title="Variedades", TV ACE
+https://stmv7.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba7320/associacaocomercialeempresarialdecaraguatatuba7320/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1649327827.gif" group-title="Variedades", Rede Nova Tv
+https://5d82644094cc0.streamlock.net/redenovatv/redenovatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1644920779.gif" group-title="Variedades", TV Metropolitana Rio
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
 
 
 
@@ -160,29 +201,7 @@ https://nesuko.br2telecom.net/TV_Justica/video.m3u8?token=1mn72SrllwcQ1BRTV
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1596599763.gif" group-title="Urban TV", Urban TV
-https://stream.urbantv.com.br/urbantv/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781266.gif" group-title="Urban TV", Urban TV Kids
-https://stream.urbantv.com.br/urbantvkids/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781483.gif" group-title="Urban TV", Urban TV Movies
-https://stream.urbantv.com.br/urbantvmovies/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781547.gif" group-title="Urban TV", Urban TV Series
-https://stream.urbantv.com.br/urbantvseries/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781154.gif" group-title="Urban TV", Urban TV Docs
-https://stream.urbantv.com.br/urbantvdocs/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1639489070.gif" group-title="Urban TV", Urban TV Turbo
-https://stream.urbantv.com.br/urbantvturbo/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658775480.gif" group-title="Urban TV", Urban TV Travel
-https://stream.urbantv.com.br/urbantvtravel/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658775550.gif" group-title="Urban TV", Urban TV Retro
-https://stream.urbantv.com.br/urbantvretro/video.m3u8
 
 
 
