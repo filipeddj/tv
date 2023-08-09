@@ -1,16 +1,78 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Governamental", TV Assembleia MG (Belo Horizonte - MG)
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="Afiliada", TV Cidade Verde - SBT (Teresina - PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1660349939.gif" group-title="Afiliada", TV Jornal - SBT (Recife - PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1660349939.gif" group-title="Afiliada", TV Jornal Interior - SBT (Caruaru - PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1655922208.gif" group-title="Afiliada", TV Pampa - RedeTV! (Porto Alegre - RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1299183986.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rbatv.gif" group-title="Afiliada", Band - RBA TV (Belém - PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/radios/1675828445.gif" group-title="Afiliada", TV Antena 10 - RecordTV (Teresina - PI)
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1646305433.gif" group-title="Afiliada", TV Tropical - RecordTV (Natal - RN)
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1591228599.gif" group-title="Afiliada", Rede Metrópole - Rede Meio Norte (Assis - SP)
+https://acesso.ecast.site:3456/live/redemetropolelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvdopovo.gif" group-title="Afiliada", TV do Povo - Rede Meio Norte (Ariquemes - RO)
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvdopovo.gif" group-title="Afiliada", TV One - Rede Meio Norte (Belém - PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1641014686.gif" group-title="TVRO", Globo (São Paulo - SP)
 https://nesuko.br2telecom.net/GloboSP/index.m3u8?token=1mn72SrllwcQ1BRTV
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="TVRO", SBT - TV Cidade Verde (Teresina - PI)
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1573490506.gif" group-title="TVRO", RedeTV! (São Paulo - SP)
 https://nesuko.br2telecom.net/RedeTV/index.m3u8?token=1mn72SrllwcQ1BRTV
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rbatv.gif" group-title="TVRO", Band - RBA TV (Belém - PA)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="TVRO", RecordTV - TV Amplitude (Juara - MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -113,8 +175,7 @@ https://streaming.al.mt.gov.br/test/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Banda C 3W", TV Assembleia MG (Belo Horizonte - MG)
-https://streaming.almg.gov.br/live/tvalmg.m3u8
+
 
 
 
