@@ -46,7 +46,7 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1591228599.gif" group-title="Afiliada", Rede Metrópole - Rede Meio Norte (Assis - SP)
-https://acesso.ecast.site:3456/live/redemetropolelive.m3u8
+https://acesso.ecast.site:3456/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvdopovo.gif" group-title="Afiliada", TV do Povo - Rede Meio Norte (Ariquemes - RO)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
