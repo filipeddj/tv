@@ -15,10 +15,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="Afiliada", TV Amplitude - RecordTV (Juara - MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
@@ -40,13 +36,6 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/1619271794.gif" group-title="TV Aberta", Canal Saúde (Rio de Janeiro - RJ)
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/nasatv.gif" group-title="Internacional", Nasa TV (USA)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="TV Aberta", PlayTV (São Paulo - SP)
 https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 
@@ -55,10 +44,6 @@ https://d6ty74mk4gbf8.cloudfront.net/out/v1/eee0458277eb45d7879a19815a33ddc4/ind
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="Web TV", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="TV Aberta", Rede Brasil (São Paulo - SP)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -78,10 +63,6 @@ https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1683228867.gif" group-title="TV Aberta", Vivax TV (São Paulo - SP)
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="Notícias", Record News (Araraquara - SP)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
@@ -90,13 +71,6 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1634066953.gif" group-title="Notícias", TV Jovem Pan News (São Paulo - SP)
 https://rumble.com/live-hls-dvr/2zi5tq/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1642516590.gif" group-title="Notícias", EuroNews (Portugal)
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1625616885.gif" group-title="Afiliada", TV Cidade - TV Gazeta (Araçatuba - SP)
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
@@ -122,9 +96,6 @@ https://stmv1.samcast.com.br/josealberto9608/josealberto9608/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1588632450.gif" group-title="Variedades", TV Nova Nordeste (Recife - PE)
 https://live.comets.com.br/tvnovanordeste_224/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Católica", TV Aparecida (Aparecida - SP)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
@@ -133,10 +104,6 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1567889182.gif" group-title="Católica", TV Pai Eterno (Mateus Leme - MG)
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1619270644.gif" group-title="Governamental", TV Justiça (Brasília - DF)
 https://nesuko.br2telecom.net/TV_Justica/video.m3u8?token=1mn72SrllwcQ1BRTV
@@ -183,43 +150,23 @@ https://video01.logicahost.com.br/assembleiarn/assembleiarn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1670198315.gif" group-title="Governamental", TV Assembleia SE (Aracaju - SE)
 https://tvalese.al.se.leg.br/hls/tvalese/index.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rtp1.gif" group-title="Internacional", RTP1 (Portugal)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rtpi.gif" group-title="Internacional", RTPi (Portugal)
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rtp2.gif" group-title="Internacional", RTP2 (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rtp3.gif" group-title="Internacional", RTP3 (Portugal)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1582384522.gif" group-title="Internacional", RTP Açores (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rtpafrica.gif" group-title="Internacional", RTP Africa (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1582384224.gif" group-title="Internacional", RTP Madeira (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rtpi.gif" group-title="Internacional", RTPi (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1642516590.gif" group-title="Internacional", EuroNews (Portugal)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1574085196.gif" group-title="Internacional", CGTN English (China)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1574085196.gif" group-title="Internacional", CGTN Español (China)
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1600793028.gif" group-title="Internacional", CGTN Documentary (China)
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/nasatv.gif" group-title="Internacional", Nasa TV (USA)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1574085196.gif" group-title="Internacional", CGTN Español (China)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/traceurban.gif" group-title="TRACE", Trace Urban
 https://tvup-fast-amagi-trace-urban.secure2.footprint.net/playlist.m3u8
@@ -232,10 +179,6 @@ https://tvup-fast-amagi-trace-latina.secure2.footprint.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tracesportsstars.gif" group-title="TRACE", Trace Sport Stars
 https://tvup-fast-amagi-trace-sportstars.secure2.footprint.net/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1596599763.gif" group-title="Urban TV", Urban TV
 https://stream.urbantv.com.br/urbantv/video.m3u8
@@ -260,10 +203,6 @@ https://stream.urbantv.com.br/urbantvtravel/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658775550.gif" group-title="Urban TV", Urban TV Retro
 https://stream.urbantv.com.br/urbantvretro/video.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="TV Aberta", Rede Minas (Belo Horizonte - MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
