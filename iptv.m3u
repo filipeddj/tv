@@ -69,9 +69,6 @@ https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/in
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1676371438.gif" group-title="Web TV", Yeeaah TV
 https://d6ty74mk4gbf8.cloudfront.net/out/v1/eee0458277eb45d7879a19815a33ddc4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="Web TV", Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="TV Aberta", TV Paraná Turismo (Curitiba - PR)
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
@@ -92,11 +89,71 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="Notícias", Record News (Araraquara - SP)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1582822331.gif" group-title="Notícias", CNN Brasil (São Paulo - SP)
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1634066953.gif" group-title="Notícias", TV Jovem Pan News (São Paulo - SP)
+https://rumble.com/live-hls-dvr/2zi5tq/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="Desenhos", Anime Tv
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38c67fdfc57a8a0087e02316d408473b.webp" group-title="Desenhos", Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="Desenhos",  Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Desenhos", Otaku Sign
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Desenhos", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26309f3e115d9326a50aeb84c794f1fe.webp" group-title="Desenhos", Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781266.gif" group-title="Desenhos", Urban TV Kids
+https://stream.urbantv.com.br/urbantvkids/video.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="Jovem, Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="Variedades", Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="Variedades", Tv Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp" group-title="Variedades", Xtreme TV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1596599763.gif" group-title="Urban TV", Urban TV
 https://stream.urbantv.com.br/urbantv/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781266.gif" group-title="Urban TV", Urban TV Kids
-https://stream.urbantv.com.br/urbantvkids/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1614781483.gif" group-title="Urban TV", Urban TV Movies
 https://stream.urbantv.com.br/urbantvmovies/video.m3u8
@@ -115,6 +172,8 @@ https://stream.urbantv.com.br/urbantvtravel/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658775550.gif" group-title="Urban TV", Urban TV Retro
 https://stream.urbantv.com.br/urbantvretro/video.m3u8
+
+
 
 
 
@@ -182,14 +241,7 @@ https://tv.unisc.br/hls/test.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="Notícias", Record News (Araraquara - SP)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1582822331.gif" group-title="Notícias", CNN Brasil (São Paulo - SP)
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1634066953.gif" group-title="Notícias", TV Jovem Pan News (São Paulo - SP)
-https://rumble.com/live-hls-dvr/2zi5tq/playlist.m3u8
 
 
 
