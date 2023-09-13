@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/sbt-cuiaba.gif" group-title="SBT", SBT Cuiabá (Cuiabá - MT)
+https://video02.logicahost.com.br/sbtmt/sbtmt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1573490506.gif" group-title="RedeTV!", RedeTV! (São Paulo - SP)
+https://nesuko.br2telecom.net/RedeTV/index.m3u8?token=1mn72SrllwcQ1BRTV
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/sbtinterior.gif" group-title="SBT", SBT Interior (Araçatuba - SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
@@ -39,6 +49,32 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="SBT", TV Naipi (Foz do Iguaçu - PR)
 https://cdn-cdn-naipi.ciclano.io:1443/cdn-naipi/cdn-naipi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="SBT", TV Paraense (Castanhal - PA)
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="SBT", TV Tibagi (Maringá - PR)
 https://cdn-cdn-tibagi.ciclano.io:1443/cdn-tibagi/cdn-tibagi/playlist.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1587312584.gif" group-title="RedeTV!", RedeTV! ES (Vitória - ES)
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/radios/1630764131.gif" group-title="RedeTV!", RedeTV! Mais (Umuarama - PR)
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="RedeTV!", RedeTV! Paraná (Cascavel - PR)
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/1574961406.gif" group-title="RedeTV!", RedeTV! Tocantins (Palmas - TO)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/odiatv.gif" group-title="RedeTV!", O Dia TV (Santa Quitéria do Maranhão - MA)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/tvarapuan.gif" group-title="RedeTV!", TV Arapuan (João Pessoa - PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/tvpantanal.gif" group-title="RedeTV!", TV Pantanal (Cuiabá - MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
