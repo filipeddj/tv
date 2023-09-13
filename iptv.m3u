@@ -6,8 +6,21 @@ https://video02.logicahost.com.br/sbtmt/sbtmt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1573490506.gif" group-title="RedeTV!", RedeTV! (São Paulo - SP)
 https://nesuko.br2telecom.net/RedeTV/index.m3u8?token=1mn72SrllwcQ1BRTV
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rbatv.gif" group-title="Band", RBA TV (Belém - PA)
+https://cdn.jmvstream.com/w/AVJ-14849/playlist/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="RecordTV", TV Amplitude (Juara - MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1625616885.gif" group-title="TV Gazeta" TV Cidade (Araçatuba - SP)
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1648858585.gif" group-title="TV Gazeta", TV Litoral - RCT - TV Gazeta (Capão da Canoa - RS)
+https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
 
 
 
@@ -89,6 +102,9 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="RecordTV", NDTV Criciúma (Xanxerê - SC)
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="RecordTV", NDTV Florianópolis (Florianópolis - SC)
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/1576609026.gif" group-title="RecordTV", TV Amplitude (Juína - MT)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
@@ -103,3 +119,23 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/tvvilareal.gif" group-title="RecordTV", TV Vila Real (Cuiabá - MT)
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1579923780.gif" group-title="TV Gazeta", TV Gazeta Goiás (Goiânia - GO)
+https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/tvalternativa.gif" group-title="TV Gazeta", TV Alternativa (Paço do Lumiar - MA)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/tvgraopara.gif" group-title="TV Gazeta", TV Grão Pará (Belém - PA)
+https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8
+
+
+
+
+
+
+
+
