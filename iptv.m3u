@@ -57,6 +57,15 @@ https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/ngt.gif" group-title="TV Aberta", NGT (Osasco - SP)
 https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658142610.gif" group-title="TV Aberta", Rede Sul de Televisão (Porto Alegre - RS)
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1676237996.gif" group-title="TV Aberta", TV União (Brasilia - DF)
+https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1579923780.gif" group-title="TV Aberta", TV Gazeta Goiás (Goiânia - GO)
+https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Minas Gerais", Rede Minas - TV Brasil (Belo Horizonte - MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
@@ -90,7 +99,7 @@ https://5e837408ea907.streamlock.net:1936/tvcipcam4/tvcipcam4.stream/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1593389109.gif" group-title="Santa Catarina", TV UFSC - TV Brasil (Florianópolis - SC)
 https://tvaovivo.sites.ufsc.br/hls/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="Santa Catarina", NDTV Florianópolis (Florianópolis - SC)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="Santa Catarina", NDTV - Record (Florianópolis - SC)
 https://caikron.com.br:19360/floripa/floripa.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1646505791.gif" group-title="Santa Catarina", TVC Panorama - Cultura (Balneário Camboriú - SC)
@@ -99,15 +108,20 @@ https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1694461134.gif" group-title="Santa Catarina", TV Inova SC (Florianópolis - SC)
 https://caikron.com.br:19360/floripa/sebrae.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvers.gif" group-title="Rio Grande do Sul", TVE RS - TV Brasil (Porto Alegre - RS)
-https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1655922208.gif" group-title="Rio Grande do Sul", TV Pampa - RedeTV! (Porto Alegre - RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658142610.gif" group-title="Rio Grande do Sul", Rede Sul de Televisão (Porto Alegre - RS)
-https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1626169998.gif" group-title="Goiás", TV Brasil Central - Cultura (Goiânia - GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1698144199.gif" group-title="Goiás", PUC TV Goiás - TV Aparecida (Goiânia - GO)
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635540112.gif" group-title="Mato Grosso do Sul", TV Educativa - Cultura - TV Brasil (Campo Grande - MS)
+http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvbrasiloeste.gif" group-title="Mato Grosso", TV Brasil Oeste - Rede Brasil (Cuiabá - MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
 
 
@@ -146,14 +160,13 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1588632450.gif" group-title="TV Aberta Regional", TV Nova Nordeste (Recife - PE)
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1676237996.gif" group-title="TV Aberta Regional", TV União (Brasilia - DF)
-https://stream-cdn.uniaoplus.com/l8SnNK6SEB/cef3db0e459d981c982e7021567052f2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1676237996.gif" group-title="TV Aberta Regional", TV União (Fortaleza - CE)
-https://stream-cdn.uniaoplus.com/j47fsfH8PB/a228b840d301c58a90271cbbdbfdb5cd.sdp/playlist.m3u8
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1676237996.gif" group-title="TV Aberta Regional", TV União (Natal - RN)
-https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+
 
 
 
@@ -251,8 +264,7 @@ https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1579923780.gif" group-title="TV Gazeta", TV Gazeta Goiás (Goiânia - GO)
-https://video05.logicahost.com.br/gazetanewstv/gazetanewstv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/tvalternativa.gif" group-title="TV Gazeta", TV Alternativa (Paço do Lumiar - MA)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
@@ -267,8 +279,7 @@ https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvbrasiloeste.gif" group-title="Rede Brasil", TV Brasil Oeste (Cuiabá - MT)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658254031.gif" group-title="Rede Brasil", TV Marajoara (Ananindeua - PA)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
@@ -286,14 +297,8 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaperipe.gif" group-title="ABEPEC", TV Aperipê (Aracaju - SE)
 https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1626169998.gif" group-title="ABEPEC", TV Brasil Central (Goiânia - GO)
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvceara.gif" group-title="ABEPEC", TV Ceará (Fortaleza - CE)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635540112.gif" group-title="ABEPEC", TV Educativa MS (Campo Grande - MS)
-http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1642277095.gif" group-title="ABEPEC", TVE BA (Salvador - BA)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
