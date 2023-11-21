@@ -3,8 +3,22 @@
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="TV Aberta", SBT - TV Cidade Verde (Teresina - PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TV Aberta", TV Cultura (São Paulo - SP)
+https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/index.mpd
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TV Aberta", Canal Gov (Brasília - DF)
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="TV Aberta", Canal Educação (Brasília - DF)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1619271794.gif" group-title="TV Aberta", Canal Saúde (Rio de Janeiro - RJ)
+https://5a1c76baf08c0.streamlock.net/fiocruz/fiocruz.stream/playlist.m3u8
+
+
 
 
 
@@ -26,9 +40,6 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="Rede Brasil", Rede Brasil (São Paulo - SP)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="ABEPEC", TV Cultura (São Paulo - SP)
-https://d1pin3134ri4ue.cloudfront.net/out/v1/7d782712e13148bf966beda0ac08bbe2/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="ABEPEC", Rede Minas (Belo Horizonte - MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
