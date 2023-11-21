@@ -55,7 +55,7 @@ https://streaming.almg.gov.br/live/tvalmg.m3u8
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=10678489421161642000
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1587312584.gif" group-title="Espírito Santo", RedeTV! ES (Vitória - ES)
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Linhares - ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
