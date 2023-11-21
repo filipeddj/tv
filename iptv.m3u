@@ -24,6 +24,9 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618636870.gif" group-title="TV Aberta", RBTV - Virtual 2 (Pato Branco - PR)
 https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=145kidelo
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1692270742.gif" group-title="TV Aberta", Rede Família (Limeira - SP)
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="TV Aberta", Record News (Araraquara - SP)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
@@ -54,7 +57,7 @@ https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/ngt.gif" group-title="TV Aberta", NGT (Osasco - SP)
 https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Minas Gerais", Rede Minas (Belo Horizonte - MG)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Minas Gerais", Rede Minas - TV Brasil (Belo Horizonte - MG)
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Minas Gerais", TV Assembleia MG (Belo Horizonte - MG)
@@ -75,7 +78,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="Paraná", TV Iguaçu - Rede Massa - SBT (Curitiba - PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="Paraná", TV Paraná Turismo (Curitiba - PR)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="Paraná", TV Paraná Turismo - TV Brasil (Curitiba - PR)
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1638830183.gif" group-title="Paraná", RIC TV - Record (Curitiba - PR)
@@ -84,13 +87,31 @@ https://dmvtctcjeggin.cloudfront.net/out/v1/1c7cdd6db7e84941baafdf87e9ae2201/ind
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvci.gif" group-title="Paraná", TVCi - TV Pai Eterno (Paranaguá - PR)
 https://5e837408ea907.streamlock.net:1936/tvcipcam4/tvcipcam4.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1593389109.gif" group-title="Santa Catarina", TV UFSC - TV Brasil (Florianópolis - SC)
+https://tvaovivo.sites.ufsc.br/hls/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="Santa Catarina", NDTV Florianópolis (Florianópolis - SC)
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1646505791.gif" group-title="Santa Catarina", TVC Panorama - Cultura (Balneário Camboriú - SC)
+https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1694461134.gif" group-title="Santa Catarina", TV Inova SC (Florianópolis - SC)
+https://caikron.com.br:19360/floripa/sebrae.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvers.gif" group-title="Rio Grande do Sul", TVE RS - TV Brasil (Porto Alegre - RS)
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1655922208.gif" group-title="Rio Grande do Sul", TV Pampa - RedeTV! (Porto Alegre - RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1658142610.gif" group-title="Rio Grande do Sul", Rede Sul de Televisão (Porto Alegre - RS)
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/redefamilia.gif" group-title="TV Aberta", Rede Família (Limeira - SP)
-https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1583103352.gif" group-title="TV Aberta", ISTV (Guarujá - SP)
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
@@ -112,9 +133,6 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/unisctv.gif" group-title="Documentários", Unisc TV (Santa Cruz do Sul - RS)
 https://tv.unisc.br/hls/test.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1567889182.gif" group-title="Católico", TV Pai Eterno (Mateus Leme - MG)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1654838239.gif" group-title="TV Aberta Regional", Amazon Sat (Manaus - AM)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -209,9 +227,6 @@ https://caikron.com.br:19360/blumenau/blumenau.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="RecordTV", NDTV Criciúma (Xanxerê - SC)
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="RecordTV", NDTV Florianópolis (Florianópolis - SC)
-https://caikron.com.br:19360/floripa/floripa.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1605934182.gif" group-title="RecordTV", NDTV Joinville (Joinville - SC)
 https://caikron.com.br:19360/joinville/joinville.m3u8
 
@@ -279,9 +294,6 @@ https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635540112.gif" group-title="ABEPEC", TV Educativa MS (Campo Grande - MS)
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1593389109.gif" group-title="ABEPEC", TV UFSC (Florianópolis - SC)
-https://tvaovivo.sites.ufsc.br/hls/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1642277095.gif" group-title="ABEPEC", TVE BA (Salvador - BA)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
