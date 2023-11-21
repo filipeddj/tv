@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="TV Aberta", SBT - TV Cidade Verde (Teresina - PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1573490506.gif" group-title="RedeTV!", RedeTV! (São Paulo - SP)
 https://nesuko.br2telecom.net/RedeTV/index.m3u8?token=1mn72SrllwcQ1BRTV
 
