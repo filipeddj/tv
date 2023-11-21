@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1617141781.gif" group-title="TV Aberta", SBT - TV Cidade Verde (Teresina - PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1573490506.gif" group-title="TV Aberta", RedeTV! - O Dia TV (Santa Quitéria do Maranhão - MA)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 
@@ -21,14 +24,23 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618636870.gif" group-title="TV Aberta", RBTV - Virtual 2 (Pato Branco - PR)
 https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=145kidelo
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1608608842.gif" group-title="TV Aberta", TV A Crítica - RTN TV (Santarém - PA)
-https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="TV Aberta", Record News (Araraquara - SP)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TV Aberta", TV Câmara (Brasília - DF)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TV Aberta", Canal Gov (Brasília - DF)
+https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TV Aberta", TV Cultura (São Paulo - SP)
 https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
-https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1567889182.gif" group-title="TV Aberta", TV Pai Eterno (Mateus Leme - MG)
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="TV Aberta", TV Aparecida (Aparecida - SP)
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="TV Aberta", Canal Educação (Brasília - DF)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
@@ -36,13 +48,10 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1619271794.gif" group-title="TV Aberta", Canal Saúde (Rio de Janeiro - RJ)
 https://5a1c76baf08c0.streamlock.net/fiocruz/fiocruz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TV Aberta", Canal Gov (Brasília - DF)
-https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1608608842.gif" group-title="TV Aberta", TV A Crítica - RTN TV (Santarém - PA)
+https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TV Aberta", TV Câmara (Brasília - DF)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/ngt.gif" group-title="São Paulo", NGT (Osasco - SP)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/ngt.gif" group-title="TV Aberta", NGT (Osasco - SP)
 https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Minas Gerais", Rede Minas (Belo Horizonte - MG)
@@ -54,17 +63,26 @@ https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1595913404.gif" group-title="Minas Gerais", TV Diversa - TV Brasil (Barroso - MG)
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=10678489421161642000
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1587312584.gif" group-title="Espírito Santo", RedeTV! ES (Vitória - ES)
-https://acesso.ecast.site:3186/live/esflixlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1584252002.gif" group-title="Espírito Santo", TV Sim - TV Brasil (Linhares - ES)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1699315711.gif" group-title="TV Aberta", Record News ES (Cachoeiro de Itapemirim - ES)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1587312584.gif" group-title="Espírito Santo", RedeTV! ES (Vitória - ES)
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1699315711.gif" group-title="Espírito Santo", Record News ES (Cachoeiro de Itapemirim - ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="Paraná", TV Iguaçu - Rede Massa - SBT (Curitiba - PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="Paraná", TV Paraná Turismo (Curitiba - PR)
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1638830183.gif" group-title="Paraná", RIC TV - Record (Curitiba - PR)
+https://dmvtctcjeggin.cloudfront.net/out/v1/1c7cdd6db7e84941baafdf87e9ae2201/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvci.gif" group-title="Paraná", TVCi - TV Pai Eterno (Paranaguá - PR)
+https://5e837408ea907.streamlock.net:1936/tvcipcam4/tvcipcam4.stream/playlist.m3u8
 
 
 
@@ -146,9 +164,6 @@ https://stream.amsolution.net.br:8443/live/63b85859c05b5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="SBT", TV Guará (Ponta Grossa - PR)
 https://cdn-cdn-guara.ciclano.io:1443/cdn-guara/cdn-guara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lineup.tv.br/canais/redemassa.gif" group-title="SBT", TV Iguaçu (Curitiba - PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1660349939.gif" group-title="SBT", TV Jornal (Recife - PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
