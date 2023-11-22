@@ -113,7 +113,7 @@ https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Minas Gerais", TV Assembleia MG (Belo Horizonte - MG)
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1595913404.gif" group-title="Minas Gerais", TV Diversa - ? (Barroso - MG)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1595913404.gif" group-title="Minas Gerais", TV Diversa - TV Brasil (Barroso - MG)
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8?token=10678489421161642000
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1568854909.gif" group-title="Minas Gerais", TV Plan - TV Brasil (Poços de Caldas - MG)
@@ -122,13 +122,13 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1593067794.gif" group-title="Minas Gerais", TV Andradas - TV Brasil (Andradas - MG)
 https://caikron.com.br:19360/tvandradas/tvandradas.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvpocos.gif" group-title="Minas Gerais", TV Candidés - Cultura (Divinópolis - MG)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592133626.gif" group-title="Minas Gerais", TV Candidés - Cultura (Divinópolis - MG)
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592298071.gif" group-title="Minas Gerais", NTV - Rede Minas (Patos de Minas - MG)
 https://video05.logicahost.com.br/ntvnet/ntvnet/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592383898.gif" group-title="Minas Gerais", TV Gazeta Norte Mineira - Rede Minas (Viçosa - MG)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1591993455.gif" group-title="Minas Gerais", TV Gazeta Norte Mineira - Rede Minas (Viçosa - MG)
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvpocos.gif" group-title="Minas Gerais", TV Poços - Rede Minas (Poços de Caldas - MG)
