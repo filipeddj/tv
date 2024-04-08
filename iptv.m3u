@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="TV Aberta", Rede Brasil (São Paulo - SP)
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaratu.gif" group-title="TV Aberta", TV Aratu - SBT (Salvador - BA)
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/sbtinterior.gif" group-title="TV Aberta", SBT Interior (Araçatuba - SP)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
