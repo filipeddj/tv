@@ -9,14 +9,8 @@ https://video01.logicahost.com.br/sbtmt01/sbtmt01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="Variedades", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1930519539.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rbatv.gif" group-title="Variedades", RBA TV - Band (Belém - PA)
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -69,8 +63,8 @@ http://streaming.almg.gov.br/live/tvalmg2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvpadrecicero.gif" group-title="TV Regional", TV Padre Cícero (Juazeiro do Norte - CE)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lineup.tv.br/gdc.php?idCanal=270" group-title="Variedades", TVE RS - TV Brasil (Porto Alegre - RS)
-https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1700978419.gif" group-title="Variedades", ESFLIX TV (Vitória - ES)
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/gdc.php?idCanal=866" group-title="Variedades", TVE Bahia - ZooMoo Kids - TV Brasil (Salvador - BA)
 http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
@@ -96,5 +90,29 @@ https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Católica", TV Aparecida (Aparecida - SP)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://lineup.tv.br/gdc.php?idCanal=5861" group-title="Cultura e Educação", Unisc TV - Futura (Santa Cruz do Sul - RS)
 https://tv.unisc.br/hls/test.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1711497246.gif" group-title="Variedades", TVE RS - TV Brasil (Porto Alegre - RS)
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Paraná (Cascavel - PR)
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Tocantins (Palmas - TO)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1655922208.gif" group-title="Variedades", TV Pampa - RedeTV! (Porto Alegre - RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1711370482.gif" group-title="Variedades", TV Pantanal - RedeTV! (Cuiabá - MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
