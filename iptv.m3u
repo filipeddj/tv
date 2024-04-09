@@ -51,7 +51,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/sesctv.gif" group-title="Cultura e Educação", SescTV (São Paulo - SP)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="Jovem, PlayTV (São Paulo - SP)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1690998738.gif" group-title="Jovem, PlayTV (São Paulo - SP)
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="Governamental", TV Câmara (Brasília - DF)
@@ -90,14 +90,30 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Católica", TV Aparecida (Aparecida - SP)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1600792311.gif" group-title="Católica", CGTN (Pequim - CHN)
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1600792311.gif" group-title="Inglês", CGTN (Pequim - CHN)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cgtv-espanol.gif" group-title="Internacional", CGTN Español (Pequim - CHN)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1600793028.gif" group-title="Inglês", CGTN Documentary (Pequim - CHN)
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/americatv.gif" group-title="Espanhol", America TV (Buenos Aires - ARG)
+https://vod.magma.qaotic.net/vod2/vmp2/vod/legacy/8e6/9ef2/66155315/array.smil/Playlist.m3u8?tst2
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cgtv-espanol.gif" group-title="Espanhol", CGTN Español (Pequim - CHN)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1600793028.gif" group-title="Internacional", CGTN Documentary (Pequim - CHN)
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/radios/1609581514.gif" group-title="Espanhol", TV Pública Argentina (Buenos Aires - ARG)
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cgtv-espanol.gif" group-title="Católica", TV Centro Sul (Pequim - CHN)
@@ -137,7 +153,7 @@ https://copanordeste2024.brasilstream.com.br/hls/copanordeste2024/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1697805194.gif" group-title="Variedades", TV Cidade - Rede Massa - SBT (Londrina - PR)
 https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1697805194.gif" group-title="Variedades", TV Cidade Verde - SBT (Teresina - PI)
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="Variedades", TV Cidade Verde - SBT (Teresina - PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1697805194.gif" group-title="Variedades", TV Guará - Rede Massa - SBT (Francisco Beltrão - PR)
