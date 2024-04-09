@@ -10,7 +10,13 @@ https://video01.logicahost.com.br/sbtmt01/sbtmt01/playlist.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1930519539.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/rbatv.gif" group-title="Variedades", RBA TV - Band (Belém - PA)
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
