@@ -63,20 +63,20 @@ http://streaming.almg.gov.br/live/tvalmg2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvpadrecicero.gif" group-title="TV Regional", TV Padre Cícero (Juazeiro do Norte - CE)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1700978419.gif" group-title="Variedades", ESFLIX TV (Vitória - ES)
-https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1698686987.gif" group-title="Variedades", MasperTV (Porto Alegre - RS)
+https://br5093.streamingdevideo.com.br/ujtxpjgkyn/ujtxpjgkyn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1642277095.gif" group-title="Variedades", TVE Bahia - ZooMoo Kids - TV Brasil (Salvador - BA)
-http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1624968521.gif" group-title="Variedades", BR8 TV (São José do Rio Preto - SP)
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/redecultura-pa.gif" group-title="Variedades", Rede Cultura do Pará - Cultura - TV Brasil (Belém - PA)
-https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1702996022.gif" group-title="Variedades", Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="Variedades", TV Paraná Turismo - TV Brasil (Curitiba - PR)
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Variedades", Rede Minas - TV Brasil (Belo Horizonte - MG)
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1700978419.gif" group-title="Variedades", ESFLIX TV (Vitória - ES)
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="Governamental", Canal Gov (Brasília - DF)
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -84,8 +84,8 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
 https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1626169998.gif" group-title="TV Estadual", TV Brasil Central - Cultura (Goiânia - GO)
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Variedades", Rede Minas - TV Brasil (Belo Horizonte - MG)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Católica", TV Aparecida (Aparecida - SP)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -94,9 +94,20 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/redecultura-pa.gif" group-title="Variedades", Rede Cultura do Pará - Cultura - TV Brasil (Belém - PA)
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1626169998.gif" group-title="Variedades", TV Brasil Central - Cultura (Goiânia - GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1642277095.gif" group-title="Variedades", TVE Bahia - ZooMoo Kids - TV Brasil (Salvador - BA)
+http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1711497246.gif" group-title="Variedades", TVE RS - TV Brasil (Porto Alegre - RS)
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+
+
+
 
 
 
