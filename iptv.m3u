@@ -76,7 +76,7 @@ https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1700978419.gif" group-title="Variedades", ESFLIX TV (Vitória - ES)
-https://acesso.ecast.site:3186/live/esflixlive.m3u8
+https://host.painelhub.online:3716/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="Governamental", Canal Gov (Brasília - DF)
 https://canalgov-stream.ebc.com.br/index.m3u8
