@@ -1,24 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Inter TV dos Vales" tvg-logo="https://www.lineup.tv.br/canais/intertv.gif" group-title="Variedades", Inter TV dos Vales - TV Globo (Coronel Fabriciano - MG)
+#EXTINF:-1 tvg-media-sequence="1" tvg-logo="https://www.lineup.tv.br/canais/intertv.gif" group-title="Variedades", Inter TV dos Vales - TV Globo (Coronel Fabriciano - MG)
 https://fibratv.com.br/media/n/BZqZmZC4y2GXotmXotGX/a/playlist.m3u8?ch=BZqZmZC4y2GXotmXotGX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjIwNDY5NjYsImlhdCI6MTcyMjAxMDk2Niwic3ViIjoibWFpbi5vcmcjMTY4MTkxNTgwNiJ9.B2kB1SsUTsA36wFkjYB1nuRtVS9VSdG98JdgzHSvq44
 
-#EXTINF:-1 tvg-id="2" tvg-name="TV Alterosa Leste" tvg-logo="https://www.lineup.tv.br/canais/tvalterosa.gif" group-title="Variedades", TV Alterosa Leste - SBT (Manhuaçu - MG)
+#EXTINF:-1 tvg-media-sequence="2" tvg-logo="https://www.lineup.tv.br/canais/tvalterosa.gif" group-title="Variedades", TV Alterosa Leste - SBT (Manhuaçu - MG)
 https://fibratv.com.br/media/n/BZi1nZuZy2GXnZC2mZqW/a/playlist.m3u8?ch=BZi1nZuZy2GXnZC2mZqW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjIwNDY5NjYsImlhdCI6MTcyMjAxMDk2Niwic3ViIjoibWFpbi5vcmcjMTY4MTkxNTgwNiJ9.B2kB1SsUTsA36wFkjYB1nuRtVS9VSdG98JdgzHSvq44
 
-#EXTINF:-1 tvg-id="5" tvg-name="Band Minas" tvg-logo="https://www.lineup.tv.br/canais/1613802235.gif" group-title="Variedades", Band Minas (Belo Horizonte - MG)
+#EXTINF:-1 tvg-media-sequence="3" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="Variedades", TV Brasil (Brasília - DF)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-media-sequence="5" tvg-logo="https://www.lineup.tv.br/canais/1613802235.gif" group-title="Variedades", Band Minas (Belo Horizonte - MG)
 https://fibratv.com.br/media/n/BZqZmZC4y2GXotmZnZq2/a/playlist.m3u8?ch=BZqZmZC4y2GXotmZnZq2&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjIwNDY5NjYsImlhdCI6MTcyMjAxMDk2Niwic3ViIjoibWFpbi5vcmcjMTY4MTkxNTgwNiJ9.B2kB1SsUTsA36wFkjYB1nuRtVS9VSdG98JdgzHSvq44
 
-#EXTINF:-1 tvg-id="6" tvg-name="TV Leste - Record" tvg-logo="https://www.lineup.tv.br/canais/tvleste.gif" group-title="Variedades", TV Leste - Record (Governador Valadares - MG)
+#EXTINF:-1 tvg-media-sequence="6" tvg-logo="https://www.lineup.tv.br/canais/tvleste.gif" group-title="Variedades", TV Leste - Record (Governador Valadares - MG)
 https://fibratv.com.br/media/n/BZqZmZC4y2GXotm5mZy4/a/playlist.m3u8?ch=BZqZmZC4y2GXotm5mZy4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjIwNDY5NjYsImlhdCI6MTcyMjAxMDk2Niwic3ViIjoibWFpbi5vcmcjMTY4MTkxNTgwNiJ9.B2kB1SsUTsA36wFkjYB1nuRtVS9VSdG98JdgzHSvq44
 
-#EXTINF:-1 tvg-id="19" tvg-name="TV Assembleia MG" tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Governamental", TV Assembleia MG (Belo Horizonte - MG)
+#EXTINF:-1 tvg-media-sequence="19" tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Governamental", TV Assembleia MG (Belo Horizonte - MG)
 http://streaming.almg.gov.br/live/tvalmg2.m3u8
 
-#EXTINF:-1 tvg-id="28.1" tvg-name="TV Cultura" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
+#EXTINF:-1 tvg-media-sequence="28.1" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-id="28.2" tvg-name="Rede Minas" tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Variedades", Rede Minas - TV Brasil (Belo Horizonte - MG)
+#EXTINF:-1 tvg-media-sequence="28.2" tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Variedades", Rede Minas - TV Brasil (Belo Horizonte - MG)
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
 
@@ -43,8 +46,7 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/sbt-cuiaba.gif" group-title="Variedades", SBT Cuiabá (Cuiabá - MT)
 https://video01.logicahost.com.br/sbtmt01/sbtmt01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="Variedades", TV Brasil (Brasília - DF)
-https://tvbrasil-stream.ebc.com.br/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Paraná (Cascavel - PR)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
