@@ -18,10 +18,10 @@ https://fibratv.com.br/media/n/BZqZmZC4y2GXotm5mZy4/a/playlist.m3u8?ch=BZqZmZC4y
 #EXTINF:-1 tvg-media-sequence="19" tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Governamental", TV Assembleia MG (Belo Horizonte - MG)
 http://streaming.almg.gov.br/live/tvalmg2.m3u8
 
-#EXTINF:-1 tvg-media-sequence="28.1" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
+#EXTINF:-1 tvg-x-media-sequence="28.1" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-media-sequence="28.2" tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Variedades", Rede Minas - TV Brasil (Belo Horizonte - MG)
+#EXTINF:-1 tvg-x-media-sequence="28.2" tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Variedades", Rede Minas - TV Brasil (Belo Horizonte - MG)
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
 
