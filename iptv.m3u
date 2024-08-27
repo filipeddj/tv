@@ -12,20 +12,27 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1720005003.gif" group-title="Variedades", Amazon Sat (Porto Velho - RO)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="Variedades", Rede Brasil (São Paulo - SP)
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1692270742.gif" group-title="Variedades", Rede Família (Limeira - SP)
 https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="Variedades", TV Paraná Turismo - TV Brasil (Curitiba - PR)
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635963589.gif" group-title="Variedades", brSuperTV - RBTV - TV Evangelizar (Web)
+https://brsupertv.brsuper.com.br/hls/brsupertv.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="Variedades", Rede Minas (Belo Horizonte - MG)
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="Variedades", TV Paraná Turismo - TV Brasil (Curitiba - PR)
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/redecultura-pa.gif" group-title="Variedades", Rede Cultura do Pará (Belém - PA)
 https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
@@ -39,23 +46,8 @@ http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1711497246.gif" group-title="Variedades", TVE RS (Porto Alegre - RS)
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/tvarapuan.gif" group-title="Variedades", TV Arapuan - Band (João Pessoa - PB)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="Variedades", TV Amplitude - Record (Juara - MT)
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Paraná (Cascavel - PR)
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="Governamental", TV Assembleia MG (Belo Horizonte - MG)
 http://streaming.almg.gov.br/live/tvalmg2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="Variedades", Rede Brasil (São Paulo - SP)
-https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1635963589.gif" group-title="Variedades", brSuperTV - RBTV - TV Evangelizar (Web)
-https://brsupertv.brsuper.com.br/hls/brsupertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/centraltv.gif" group-title="Variedades", CentralTV (Curitiba - PR)
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w884233416.m3u8
