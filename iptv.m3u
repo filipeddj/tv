@@ -3,6 +3,11 @@
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="Variedades", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Tocantins (Palmas - TO)
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
@@ -29,9 +34,6 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="Variedades", TV Amplitude - Record (Juara - MT)
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/bemtv.gif" group-title="Variedades", Bem TV - SBT (Tangará da Serra - MT)
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Paraná (Cascavel - PR)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
@@ -132,8 +134,6 @@ https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="Variedades", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Tocantins (Palmas - TO)
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1655922208.gif" group-title="Variedades", TV Pampa - RedeTV! (Porto Alegre - RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
