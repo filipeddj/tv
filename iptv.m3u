@@ -6,6 +6,16 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="Variedades", RedeTV! Tocantins (Palmas - TO)
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1625616885.gif" group-title="Variedades", TV Cidade Araçatuba - TV Gazeta (Araçatuba - SP)
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1720005003.gif" group-title="Variedades", Amazon Sat (Porto Velho - RO)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1692270742.gif" group-title="Variedades", Rede Família (Limeira - SP)
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="Variedades", TV Cultura (São Paulo - SP)
@@ -56,20 +66,11 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1707051771.gif" group-title="Variedades", Life Media (São Paulo - SP)
 https://cdn2.connectbr.com.br/life/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1720005003.gif" group-title="Variedades", Amazon Sat (Porto Velho - RO)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1583103352.gif" group-title="Variedades", ISTV (Guarujá - SP)
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="Cultura e Educação", Canal Educação (Brasília - DF)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1666353632.gif" group-title="Notícias", Record News (Araraquara - SP)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1692270742.gif" group-title="Variedades", Rede Família (Limeira - SP)
-https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1690998738.gif" group-title="Jovem", PlayTV (São Paulo - SP)
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
