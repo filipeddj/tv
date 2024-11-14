@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TV Aberta", Cultura (São Paulo - SP)
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TV Aberta", Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TV Aberta", TV Câmara (Brasília - DF)
