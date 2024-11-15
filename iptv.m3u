@@ -17,29 +17,58 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lineup.tv.br/canais/sbtinterior.gif" group-title="SBT", SBT Interior (Araçatuba - SP)
+#EXTINF:-1 tvg-chno="2-1" tvg-logo="https://www.lineup.tv.br/canais/sbtinterior.gif" group-title="SBT", SBT Interior (Araçatuba - SP)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="2-1" tvg-logo="https://www.lineup.tv.br/canais/tvaratu.gif" group-title="SBT", SBT - TV Aratu (Salvador - BA)
+#EXTINF:-1 tvg-chno="2-2" tvg-logo="https://www.lineup.tv.br/canais/tvaratu.gif" group-title="SBT", SBT - TV Aratu (Salvador - BA)
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2-2" tvg-logo="https://www.lineup.tv.br/canais/sbt-cuiaba.gif" group-title="SBT", SBT Cuiabá (Cuiabá - MT)
+#EXTINF:-1 tvg-chno="2-3" tvg-logo="https://www.lineup.tv.br/canais/sbt-cuiaba.gif" group-title="SBT", SBT Cuiabá (Cuiabá - MT)
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2-3" tvg-logo="https://www.lineup.tv.br/canais/bemtv.gif" group-title="SBT", SBT - Bem TV (Tangará da Serra - MT)
+#EXTINF:-1 tvg-chno="2-4" tvg-logo="https://www.lineup.tv.br/canais/bemtv.gif" group-title="SBT", SBT - Bem TV (Tangará da Serra - MT)
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2-4" tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="SBT", SBT - TV Cidade Verde (Teresina - PI)
+#EXTINF:-1 tvg-chno="2-5" tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="SBT", SBT - TV Cidade Verde (Teresina - PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2-5" tvg-logo="https://www.lineup.tv.br/canais/1636757714.gif" group-title="SBT", SBT - TV Difusora (São Luís - MA)
+#EXTINF:-1 tvg-chno="2-6" tvg-logo="https://www.lineup.tv.br/canais/1636757714.gif" group-title="SBT", SBT - TV Difusora (São Luís - MA)
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 
-#EXTINF:-1 tvg-chno="2-6" tvg-logo="https://www.lineup.tv.br/canais/1641431824.gif" group-title="SBT", SBT - TV Floresta (Tucuruí - PA)
+#EXTINF:-1 tvg-chno="2-7" tvg-logo="https://www.lineup.tv.br/canais/1641431824.gif" group-title="SBT", SBT - TV Floresta (Tucuruí - PA)
 https://live-hls-cdn.livepush.io/live_cdn/emVqPK2sSrR_sJM/index.m3u8?session_id=5487901736345824
 
-#EXTINF:-1 tvg-chno="2-7" tvg-logo="https://www.lineup.tv.br/canais/1584249537.gif" group-title="SBT", SBT - TV Guajará (Tailândia - PA)
+#EXTINF:-1 tvg-chno="2-8" tvg-logo="https://www.lineup.tv.br/canais/1584249537.gif" group-title="SBT", SBT - TV Guajará (Tailândia - PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2-8" tvg-logo="https://www.lineup.tv.br/canais/1591958904.gif" group-title="SBT", SBT - TV Paraense (Castanhal - PA)
+#EXTINF:-1 tvg-chno="2-9" tvg-logo="https://www.lineup.tv.br/canais/1591958904.gif" group-title="SBT", SBT - TV Paraense (Castanhal - PA)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="4-1" tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="SBT", RedeTV! - O Dia TV (Santa Quitéria do Maranhão - MA)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="6-1" tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="Record", Record - TV Amplitude (Juara - MT)
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="6-2" tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="Record", Record - TV Amplitude (Juína - MT)
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="6-3" tvg-logo="https://www.lineup.tv.br/canais/tvvilareal.gif" group-title="Record", Record - TV Vila Real (Cuiabá - MT)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="6-4" tvg-logo="https://www.lineup.tv.br/canais/1646305433.gif" group-title="Record", Record - TV Tropical (Natal - RN)
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="510-1" tvg-logo="https://www.lineup.tv.br/canais/1678736460.gif" group-title="Rede Brasil", Rede Brasil - TV Sul (São Lourenço do Oeste - SC)
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
