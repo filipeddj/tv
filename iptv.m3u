@@ -47,8 +47,27 @@ https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="4-1" tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="SBT", RedeTV! - O Dia TV (Santa Quitéria do Maranhão - MA)
+
+#EXTINF:-1 tvg-chno="4-1" tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="RedeTV!", RedeTV! Paraná (Cascavel - PR)
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4-2" tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="RedeTV!", RedeTV! Rondônia (Porto Velho - RO)
+https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b2696150f13711eeb398a9b4ff06b4ea/index.m3u8
+
+#EXTINF:-1 tvg-chno="4-3" tvg-logo="https://www.lineup.tv.br/canais/1574961406.gif" group-title="RedeTV!", RedeTV! Tocantins (Palmas - TO)
+https://video04.logicahost.com.br/redetvto/redetvto/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4-4" tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="RedeTV!", RedeTV! - O Dia TV (Santa Quitéria do Maranhão - MA)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4-5" tvg-logo="https://www.lineup.tv.br/canais/1655922208.gif" group-title="RedeTV!", RedeTV! - TV Pampa (Porto Alegre - RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4-6" tvg-logo="https://www.lineup.tv.br/canais/1624422722.gif" group-title="RedeTV!", RedeTV! Ji-Paraná (Ji-Paraná - RO)
+https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b46550806c3111ee844d55da1b944b1f/index.m3u8
+
+#EXTINF:-1 tvg-chno="4-7" tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="RedeTV!", RedeTV! ES (Vitória - ES)
+https://vz-9196e474-4de.b-cdn.net/6b1ce021-7401-4a34-a0de-48d8366729f3/720p/video.m3u8
 
 
 
