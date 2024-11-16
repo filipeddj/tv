@@ -1,62 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TV Aberta", TV Câmara (Brasília - DF)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-chno="19-1" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TV Aberta", TV Câmara 2 (Brasília - DF)
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-
-#EXTINF:-1 tvg-chno="19-2" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TV Aberta", TV Câmara 3 (Brasília - DF)
-https://stream3.camara.gov.br/tv3/manifest.m3u8
-
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TV Aberta", Canal Gov (Brasília - DF)
-https://canalgov-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TV Aberta", Cultura (São Paulo - SP)
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-chno="510" tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="TV Aberta", Rede Brasil (São Paulo - SP)
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="511" tvg-logo="https://www.lineup.tv.br/canais/1721133197.gif" group-title="TV Aberta", RBTV - TV Marrecas (Pato Branco - PR)
-https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
-
-
-
-
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://www.lineup.tv.br/canais/1701349103.gif" group-title="Jornalismo", Record News (Araraquara - SP)
-https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-chno="15-1" tvg-logo="https://www.lineup.tv.br/canais/1685227835.gif" group-title="Educativos", Futura - Canal FDR (Fortaleza - CE)
-https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
-
-#EXTINF:-1 tvg-chno="15-2" tvg-logo="https://www.lineup.tv.br/canais/unisctv.gif" group-title="Educativos", Futura - Unisc TV (Santa Cruz do Sul - RS)
-https://tv.unisc.br/hls/test.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://www.lineup.tv.br/canais/redevida.gif" group-title="Católico", Rede Vida (São José do Rio Preto - SP)
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="29-2" tvg-logo="https://www.lineup.tv.br/canais/1718680840.gif" group-title="Católico", TV Pai Eterno (Mateus Leme - MG)
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="30" tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Católico", TV Aparecida (Aparecida - SP)
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-chno="2-1" tvg-logo="https://www.lineup.tv.br/canais/sbtinterior.gif" group-title="SBT", SBT Interior (Araçatuba - SP)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
@@ -81,9 +24,11 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-chno="2-8" tvg-logo="https://www.lineup.tv.br/canais/1591958904.gif" group-title="SBT", SBT - TV Paraense (Castanhal - PA)
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TV Aberta", TV Brasil (Brasília - DF)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-
-
+#EXTINF:-1 tvg-chno="3-1" tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="TV Aberta", Rede Minas (Belo Horizonte - MG)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4-1" tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="RedeTV!", RedeTV! Paraná (Cascavel - PR)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
@@ -100,19 +45,11 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 tvg-chno="4-5" tvg-logo="https://www.lineup.tv.br/canais/1624422722.gif" group-title="RedeTV!", RedeTV! Ji-Paraná (Ji-Paraná - RO)
 https://204282.global.ssl.fastly.net/64cd5c4d7a120f4f3544ca88/live_b46550806c3111ee844d55da1b944b1f/index.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-chno="5-1" tvg-logo="https://www.lineup.tv.br/canais/rbatv.gif" group-title="Band", Band - RBA TV (Belém - PA)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="5-2" tvg-logo="https://www.lineup.tv.br/canais/tvarapuan.gif" group-title="Band", Band - TV Arapuan (João Pessoa - PB)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-chno="6-1" tvg-logo="https://www.lineup.tv.br/canais/1576609026.gif" group-title="Record", Record - TV Amplitude (Juara - MT)
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -126,9 +63,8 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-chno="6-4" tvg-logo="https://www.lineup.tv.br/canais/1646305433.gif" group-title="Record", Record - TV Tropical (Natal - RN)
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://www.lineup.tv.br/canais/redevida.gif" group-title="Católico", Rede Vida (São José do Rio Preto - SP)
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="8-1" tvg-logo="https://www.lineup.tv.br/canais/1625616885.gif" group-title="TV Gazeta", TV Gazeta - TV Cidade Araçatuba (Araçatuba - SP)
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
@@ -139,26 +75,77 @@ https://video01.kshost.com.br/moises3834/moises3834/playlist.m3u8?t=1731634173
 #EXTINF:-1 tvg-chno="8-3" tvg-logo="https://www.lineup.tv.br/canais/1675811382.gif" group-title="TV Gazeta", TV Gazeta - 40 Graus TV (Salvador - BA)
 https://acesso.ecast.site:3125/stream/play.m3u8
 
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.lineup.tv.br/canais/1720005003.gif" group-title="TV Aberta", Amazon Sat (Porto Velho - RO)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://www.lineup.tv.br/canais/1657600172.gif" group-title="TV Aberta", Canal Educação (Brasília - DF)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-chno="15-1" tvg-logo="https://www.lineup.tv.br/canais/1685227835.gif" group-title="Educativos", Futura - Canal FDR (Fortaleza - CE)
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
+
+#EXTINF:-1 tvg-chno="15-2" tvg-logo="https://www.lineup.tv.br/canais/unisctv.gif" group-title="Educativos", Futura - Unisc TV (Santa Cruz do Sul - RS)
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://www.lineup.tv.br/canais/1701349103.gif" group-title="Jornalismo", Record News (Araraquara - SP)
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-chno="16-1" tvg-logo="https://www.lineup.tv.br/canais/1703072343.gif" group-title="TV Aberta", RFTV (Limeira - SP)
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://www.lineup.tv.br/canais/1690998738.gif" group-title="TV Aberta", PlayTV+ (São Paulo - SP)
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TV Aberta", TV Câmara (Brasília - DF)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="19-1" tvg-logo="https://www.lineup.tv.br/canais/1592296460.gif" group-title="TV Aberta", TV Assembleia MG (Belo Horizonte - MG)
+http://streaming.almg.gov.br/live/tvalmg.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="TV Aberta", TV Paraná Turismo (Curitiba - PR)
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TV Aberta", Canal Gov (Brasília - DF)
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TV Aberta", Cultura (São Paulo - SP)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://www.lineup.tv.br/canais/1718680840.gif" group-title="Católico", TV Pai Eterno (Mateus Leme - MG)
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://www.lineup.tv.br/canais/tvaparecida.gif" group-title="Católico", TV Aparecida (Aparecida - SP)
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-chno="510-1" tvg-logo="https://www.lineup.tv.br/canais/1678736460.gif" group-title="Rede Brasil", Rede Brasil - TV Sul (São Lourenço do Oeste - SC)
-https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="510-2" tvg-logo="https://www.lineup.tv.br/canais/1724091038.gif" group-title="Rede Brasil", Rede Brasil - Rede Mundo TV (São Paulo - SP)
-https://stream.cdn.provider.play.virtual.tv.br/REDEMUNDOPARANA/index.fmp4.m3u8?token=R2e5D6e2M35u56N2d1O
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="TV Aberta", Rede Brasil (São Paulo - SP)
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="510-3" tvg-logo="https://www.lineup.tv.br/canais/1724091104.gif" group-title="Rede Brasil", Rede Brasil - Rede Virtual TV (Francisco Beltrão - PR)
+#EXTINF:-1 tvg-chno="35-1" tvg-logo="https://www.lineup.tv.br/canais/1724091104.gif" group-title="Rede Brasil", Rede Brasil - Rede Virtual TV (Francisco Beltrão - PR)
 https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/index.fmp4.m3u8?token=V5I3IRI65I2A1L
 
-#EXTINF:-1 tvg-chno="510-4" tvg-logo="https://www.lineup.tv.br/canais/1658254031.gif" group-title="Rede Brasil", Rede Brasil - TV Marajoara (Ananindeua - PA)
+#EXTINF:-1 tvg-chno="35-2" tvg-logo="https://www.lineup.tv.br/canais/1678736460.gif" group-title="Rede Brasil", Rede Brasil - TV Sul (São Lourenço do Oeste - SC)
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="35-3" tvg-logo="https://www.lineup.tv.br/canais/1724091038.gif" group-title="Rede Brasil", Rede Brasil - Rede Mundo TV (São Paulo - SP)
+https://stream.cdn.provider.play.virtual.tv.br/REDEMUNDOPARANA/index.fmp4.m3u8?token=R2e5D6e2M35u56N2d1O
+
+#EXTINF:-1 tvg-chno="35-4" tvg-logo="https://www.lineup.tv.br/canais/1658254031.gif" group-title="Rede Brasil", Rede Brasil - TV Marajoara (Ananindeua - PA)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="36-1" tvg-logo="https://www.lineup.tv.br/canais/1721133197.gif" group-title="TV Aberta", RBTV - TV Marrecas (Pato Branco - PR)
+https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
+
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://www.lineup.tv.br/canais/1583103352.gif" group-title="TV Aberta", ISTV (Guarujá - SP)
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
 
-
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://www.lineup.tv.br/canais/1712193070.gif" group-title="TV Aberta", TV Meio (Timon - MA)
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
 
 
 
