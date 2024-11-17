@@ -143,9 +143,64 @@ https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=
 #EXTINF:-1 tvg-chno="37" tvg-logo="https://www.lineup.tv.br/canais/1583103352.gif" group-title="TV Aberta", ISTV (Guarujá - SP)
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 
+#EXTINF:-1 tvg-chno="38" tvg-logo="https://www.lineup.tv.br/canais/centraltv.gif" group-title="TV Aberta", CentralTV (Curitiba - PR)
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://www.lineup.tv.br/canais/1579273476.gif" group-title="TV Aberta", Life Channel Brasil
+https://cdn.g2gsistemas.com.br/life/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-chno="40" tvg-logo="https://www.lineup.tv.br/canais/1712193070.gif" group-title="TV Aberta", TV Meio (Timon - MA)
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-logo="https://www.lineup.tv.br/canais/tvpadrecicero.gif" group-title="TV Aberta", TV Padre Cícero (Juazeiro do Norte - CE)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://www.lineup.tv.br/canais/1721694181.gif" group-title="TV Aberta", Vivax TV (São Paulo - SP)
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://www.lineup.tv.br/canais/1698686987.gif" group-title="TV Aberta", MasperTV (Porto Alegre - RS)
+https://stream.castr.com/62572b254fcac2c0e67c3ac5/live_3815ed7055fe11ef95f9a97142a4bd4f/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://www.lineup.tv.br/canais/1702996022.gif" group-title="TV Aberta", Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://www.lineup.tv.br/canais/1697548760.gif" group-title="Canais Unique", TV Planalto Norte
+https://stream.uniquetv.com.br/uniqueplanalto/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://www.lineup.tv.br/canais/1698884393.gif" group-title="Canais Unique", Unique TV
+https://stream.uniquetv.com.br/uniquetv/video.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://www.lineup.tv.br/canais/1723742773.gif" group-title="Canais Unique", Unique Super Geek
+https://stream.uniquetv.com.br/supergeek/video.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-logo="" group-title="Canais Unique", Unique Travel and Food
+https://stream.uniquetv.com.br/uniquefood/video.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-logo="https://www.lineup.tv.br/canais/1722864542.gif" group-title="Canais Unique", Unique Supercast
+https://stream.uniquetv.com.br/supercast/video.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-logo="https://www.lineup.tv.br/canais/1698884393.gif" group-title="Canais Unique", Unique Sports 1
+https://stream.uniquetv.com.br/uniquesports1/video.m3u8
+
+#EXTINF:-1 tvg-chno="65-1" tvg-logo="https://www.lineup.tv.br/canais/1698884393.gif" group-title="Canais Unique", Unique Sports 2
+https://stream.uniquetv.com.br/uniquesports2/video.m3u8
+
+#EXTINF:-1 tvg-chno="65-2" tvg-logo="https://www.lineup.tv.br/canais/1698884393.gif" group-title="Canais Unique", Unique Sports 3
+https://stream.uniquetv.com.br/uniquesports3/video.m3u8
+
+
+
+
 
 
 
