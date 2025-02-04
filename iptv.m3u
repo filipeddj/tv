@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="TV Aberta", Rede Brasil (São Paulo - SP)
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lineup.tv.br/canais/1618636870.gif" group-title="TV Aberta", RBTV - TV Marrecas (Pato Branco - PR)
 https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.fmp4.m3u8?token=CHJULABCSA03071993
