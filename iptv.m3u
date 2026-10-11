@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lineup.tv.br/canais/1772250043.gif" group-title="TVRO", Inter TV dos Vales (Coronel Fabriciano - MG)
+https://fibratv.com.br/media/n/BZqZmZC4y2GXotmXotGX/a/playlist.m3u8?ch=BZqZmZC4y2GXotmXotGX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE4MDE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4
+
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TVRO", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
