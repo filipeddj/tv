@@ -1,14 +1,14 @@
 import subprocess
 from pathlib import Path
 
-YOUTUBE_URL = "https://www.youtube.com/@sbt/live"
+# URL direta do vídeo da live do SBT extraída do player do site
+YOUTUBE_URL = "https://www.youtube.com/watch?v=R0ZJ4uevOd4"
 out_file = Path("lista.m3u")
 url = None
 
-print(f"Tentando extrair link de: {YOUTUBE_URL}")
+print(f"Tentando extrair link m3u8 direto do ID do SBT: {YOUTUBE_URL}")
 
 try:
-    # Executa o yt-dlp tratando o erro de forma segura
     resultado = subprocess.run(
         ["yt-dlp", "--get-url", "--extractor-args", "youtube:player_client=android", YOUTUBE_URL],
         capture_output=True,
@@ -27,9 +27,9 @@ try:
 except Exception as e:
     print(f"Aviso ao executar yt-dlp: {e}")
 
-# Sempre garante que o arquivo lista.m3u vai existir para o GitHub não quebrar
+# Atualiza ou gera o arquivo lista.m3u
 if url:
-    print("Link m3u8 obtido com sucesso!")
+    print("Sucesso! Link m3u8 do SBT encontrado.")
     conteudo = f"""#EXTM3U
 
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/sbt.gif" group-title="TVRO", SBT Ao Vivo
@@ -37,12 +37,11 @@ if url:
 """
     out_file.write_text(conteudo, encoding="utf-8")
 else:
-    print("Aviso: YouTube bloqueou ou a live está offline temporariamente. Mantendo/criando estrutura padrão.")
+    print("Não foi possível atualizar nesta tentativa.")
     if not out_file.exists():
-        # Se o arquivo não existir, cria um modelo para não dar erro no git
         conteudo_padrao = """#EXTM3U
 
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/sbt.gif" group-title="TVRO", SBT Ao Vivo
-https://www.youtube.com/watch?v=placeholder
+https://www.youtube.com/watch?v=R0ZJ4uevOd4
 """
         out_file.write_text(conteudo_padrao, encoding="utf-8")
