@@ -9,8 +9,11 @@ https://customer-nqp6akcgygwktc9u.cloudflarestream.com/57d1abf5426d345be0feddef6
 #EXTINF:-1 tvg-chno="2.3" tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="TVRO", TV Cidade Verde - SBT (Teresina - PI)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TVRO", TV Brasil (Brasília - DF)
+#EXTINF:-1 tvg-chno="3.1" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TVRO", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-chno="3.2" tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="TVRO", Rede Minas (Belo Horizonte - MG)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="TVRO", RedeTV! Paraná (Cascavel - PR)
 https://cdn-origin.smartplay.pe/soultv-redetvparana/tracks-v1a1/mono.ts.m3u8
@@ -24,6 +27,9 @@ https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-chno="6.2" tvg-logo="https://www.lineup.tv.br/canais/1646305433.gif" group-title="TVRO", TV Tropical - Record (Natal - RN)
 https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.lineup.tv.br/canais/1720005003.gif" group-title="TVRO", Amazon Sat (Porto Velho - RO)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
 #EXTINF:-1 tvg-chno="16.1" tvg-logo="https://www.lineup.tv.br/canais/1701349103.gif" group-title="TVRO", Record News (Araraquara - SP)
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 
@@ -35,6 +41,9 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TVRO", TV Câmara (Brasília - DF)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TVRO", Canal Gov (Brasília - DF)
+https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TVRO", Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
