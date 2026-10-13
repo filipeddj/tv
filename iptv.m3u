@@ -1,52 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="2.1" tvg-logo="https://www.lineup.tv.br/canais/1761664188.gif" group-title="TVRO", TH+ SBT Interior (Araçatuba - SP)
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="2.2" tvg-logo="https://www.lineup.tv.br/canais/1698427867.gif" group-title="TVRO", SCC SBT (Lages - SC)
-https://customer-nqp6akcgygwktc9u.cloudflarestream.com/57d1abf5426d345be0feddef6afc6dd3/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fscc10.com.br
-
-#EXTINF:-1 tvg-chno="2.3" tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="TVRO", TV Cidade Verde - SBT (Teresina - PI)
-https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="3.1" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TVRO", TV Brasil (Brasília - DF)
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-chno="3.2" tvg-logo="https://www.lineup.tv.br/canais/1592302022.gif" group-title="TVRO", Rede Minas (Belo Horizonte - MG)
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="TVRO", RedeTV! Paraná (Cascavel - PR)
-https://cdn-origin.smartplay.pe/soultv-redetvparana/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://www.lineup.tv.br/canais/1613802235.gif" group-title="TVRO", Band Minas (Belo Horizonte - MG)
-https://hqf6tcxuhk.singularcdn.net.br/live/0195cdf3-d8d8-74b6-9516-6c79c06bcec8/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MTFkNGU4LWJhZDAtNDUxOC05YTI4LThkMzM4Y2I2YzY0NCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTkwMDQyMiwibmJmIjoxNzkxOTAwNDIyLCJleHAiOjE3OTQ0OTI0MjIsInVyaV9zdWIiOiIvMDE5NWNkZjMtZDhkOC03NGI2LTk1MTYtNmM3OWMwNmJjZWM4LyIsInVpZCI6IjY2MTFkNGU4LWJhZDAtNDUxOC05YTI4LThkMzM4Y2I2YzY0NCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.XXVWEE6kk3nq0zHc73_ArXKo5idZu4IyP-_SM67fjcs&uid=6611d4e8-bad0-4518-9a28-8d338cb6c644DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4
-
-#EXTINF:-1 tvg-chno="6.1" tvg-logo="https://www.lineup.tv.br/canais/1568969087.gif" group-title="TVRO", TV Conquista - Record (Lucas do Rio Verde - MT)
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
-
-#EXTINF:-1 tvg-chno="6.2" tvg-logo="https://www.lineup.tv.br/canais/1646305433.gif" group-title="TVRO", TV Tropical - Record (Natal - RN)
-https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.lineup.tv.br/canais/1720005003.gif" group-title="TVRO", Amazon Sat (Porto Velho - RO)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-chno="16.1" tvg-logo="https://www.lineup.tv.br/canais/1701349103.gif" group-title="TVRO", Record News (Araraquara - SP)
-https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
-
-#EXTINF:-1 tvg-chno="16.2" tvg-logo="https://www.lineup.tv.br/canais/1703072343.gif" group-title="TVRO", RFTV (Limeira - SP)
-https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="TVRO", PlayTV (São Paulo - SP)
-https://isaocorp.cloudecast.com/playtv/index.m3u8
-
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TVRO", TV Câmara (Brasília - DF)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TVRO", Canal Gov (Brasília - DF)
-https://canalgov-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TVRO", Cultura (São Paulo - SP)
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TVRO", Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TVRO", TV Câmara (Brasília - DF)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
+#EXTINF:-1 tvg-chno="4.1" tvg-logo="https://www.lineup.tv.br/canais/1761664188.gif" group-title="TVRO", TH+ SBT Interior (Araçatuba - SP)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="4.2" tvg-logo="https://www.lineup.tv.br/canais/1698427867.gif" group-title="TVRO", SCC SBT (Lages - SC)
+https://customer-nqp6akcgygwktc9u.cloudflarestream.com/57d1abf5426d345be0feddef6afc6dd3/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fscc10.com.br
+
+#EXTINF:-1 tvg-chno="4.3" tvg-logo="https://www.lineup.tv.br/canais/1618478304.gif" group-title="TVRO", TV Cidade Verde - SBT (Teresina - PI)
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://www.lineup.tv.br/canais/1596753164.gif" group-title="TVRO", TV Serra Azul - Globo (Porangatu - GO)
+https://cast-control.com.br/hls/redeserraazulpgtu/redeserraazulpgtu.m3u8
+
+#EXTINF:-1 tvg-chno="7.1" tvg-logo="https://www.lineup.tv.br/canais/1646305433.gif" group-title="TVRO", TV Tropical - Record (Natal - RN)
+https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7.2" tvg-logo="https://www.lineup.tv.br/canais/1568969087.gif" group-title="TVRO", TV Conquista - Record (Lucas do Rio Verde - MT)
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 tvg-chno="9.1" tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="TVRO", RedeTV! Paraná (Cascavel - PR)
+https://cdn-origin.smartplay.pe/soultv-redetvparana/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="9.2" tvg-logo="https://www.lineup.tv.br/canais/odiatv.gif" group-title="TVRO", O Dia TV - RedeTV! (Santa Quitéria do Maranhão - MA)
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="9.3" tvg-logo="https://www.lineup.tv.br/canais/1655922208.gif" group-title="TVRO", TV Pampa - RedeTV! (Porto Alegre - RS)
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-logo="https://www.lineup.tv.br/canais/1688780079.gif" group-title="TVRO", Canal Gov (Brasília - DF)
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-chno="11.1" tvg-logo="https://www.lineup.tv.br/canais/1625616885.gif" group-title="TVRO", TV Cidade Araçatuba - TV Gazeta (Araçatuba - SP)
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="11.2" tvg-logo="https://www.lineup.tv.br/canais/1714137132.gif" group-title="TVRO", TV Litoral RS - TV Gazeta (Capão da Canoa - RS)
+https://srv2.tvmais.net.br/hls/tvlitoral/1_0/index.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://www.lineup.tv.br/canais/1613802235.gif" group-title="TVRO", Band Minas (Belo Horizonte - MG)
+https://hqf6tcxuhk.singularcdn.net.br/live/0195cdf3-d8d8-74b6-9516-6c79c06bcec8/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MTFkNGU4LWJhZDAtNDUxOC05YTI4LThkMzM4Y2I2YzY0NCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTkwMDQyMiwibmJmIjoxNzkxOTAwNDIyLCJleHAiOjE3OTQ0OTI0MjIsInVyaV9zdWIiOiIvMDE5NWNkZjMtZDhkOC03NGI2LTk1MTYtNmM3OWMwNmJjZWM4LyIsInVpZCI6IjY2MTFkNGU4LWJhZDAtNDUxOC05YTI4LThkMzM4Y2I2YzY0NCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.XXVWEE6kk3nq0zHc73_ArXKo5idZu4IyP-_SM67fjcs&uid=6611d4e8-bad0-4518-9a28-8d338cb6c644DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://www.lineup.tv.br/canais/1718680840.gif" group-title="TVRO", TV Pai Eterno (Mateus Leme - MG)
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://www.lineup.tv.br/canais/1701349103.gif" group-title="TVRO", Record News (Araraquara - SP)
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TVRO", TV Brasil (Brasília - DF)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://www.lineup.tv.br/canais/1681169267.gif" group-title="TVRO", Rede Brasil (Campo Grande - MS)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="60.1" tvg-logo="https://www.lineup.tv.br/canais/1685227835.gif" group-title="TVRO", Canal FDR - Futura (Fortaleza - CE)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://www.lineup.tv.br/canais/1731431843.gif" group-title="TVRO", UMA TV (São Paulo - SP)
+https://umatv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-logo="https://www.lineup.tv.br/canais/1626169998.gif" group-title="TVRO", TV Brasil Central - Cultura (Goiânia - GO)
+https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="120" tvg-logo="https://www.lineup.tv.br/canais/1703072343.gif" group-title="TVRO", RFTV (Limeira - SP)
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="122" tvg-logo="https://www.lineup.tv.br/canais/1574085196.gif" group-title="TVRO", CGTN America (Washington, DC - EUA)
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-chno="123" tvg-logo="https://www.lineup.tv.br/canais/1616156349.gif" group-title="TVRO", TV Verdes Campos Sat (Teresina - PI)
+https://a.cdni.live/redeverdes2288/redeverdes2288/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="125" tvg-logo="https://www.lineup.tv.br/canais/1755974786.gif" group-title="TVRO", Meio Norte (Timon - MA)
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
+
+#EXTINF:-1 tvg-chno="130" tvg-logo="https://www.lineup.tv.br/canais/1583103352.gif" group-title="TVRO", ISTV (Guarujá - SP)
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="133" tvg-logo="https://www.lineup.tv.br/canais/1720005003.gif" group-title="TVRO", Amazon Sat (Porto Velho - RO)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://www.lineup.tv.br/canais/1772551370.gif" group-title="TVRO", TV Gazeta Alagoas - Metrópoles (Maceió - AL)
+https://virtues.live:1936/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="236" tvg-logo="https://www.lineup.tv.br/canais/1667493498.gif" group-title="TVRO", TV Paraná Turismo (Curitiba - PR)
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-chno="320" tvg-logo="https://www.lineup.tv.br/canais/1742249477.gif" group-title="TVRO", TV Horizonte (Sabará - MG)
+https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
+
+#EXTINF:-1 tvg-chno="574" tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="TVRO", PlayTV (São Paulo - SP)
+https://isaocorp.cloudecast.com/playtv/index.m3u8
