@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lineup.tv.br/canais/1698427867.gif" group-title="TVRO", SCC SBT (Lages - SC)
+https://customer-nqp6akcgygwktc9u.cloudflarestream.com/57d1abf5426d345be0feddef6afc6dd3/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fscc10.com.br
+
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TVRO", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
@@ -11,6 +14,9 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0195cdf3-d8d8-74b6-9516-6c79c06bcec8/
 
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="TVRO", PlayTV (São Paulo - SP)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://www.lineup.tv.br/canais/1671477293.gif" group-title="TVRO", TV Câmara (Brasília - DF)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="28" tvg-logo="https://www.lineup.tv.br/canais/cultura.gif" group-title="TVRO", Cultura (São Paulo - SP)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
