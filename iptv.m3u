@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://www.lineup.tv.br/canais/1772250043.gif" group-title="TVRO", Inter TV dos Vales (Coronel Fabriciano - MG)
-https://fibratv.com.br/media/n/BZqZmZC4y2GXotmXotGX/a/playlist.m3u8?ch=BZqZmZC4y2GXotmXotGX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE4MDE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4
-
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://www.lineup.tv.br/canais/1691075487.gif" group-title="TVRO", TV Brasil (Brasília - DF)
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://www.lineup.tv.br/canais/1618228635.gif" group-title="TVRO", RedeTV! Paraná (Cascavel - PR)
 https://cdn-origin.smartplay.pe/soultv-redetvparana/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://www.lineup.tv.br/canais/1613802235.gif" group-title="TVRO", Band Minas (Belo Horizonte - MG)
+https://hqf6tcxuhk.singularcdn.net.br/live/0195cdf3-d8d8-74b6-9516-6c79c06bcec8/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MTFkNGU4LWJhZDAtNDUxOC05YTI4LThkMzM4Y2I2YzY0NCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTkwMDQyMiwibmJmIjoxNzkxOTAwNDIyLCJleHAiOjE3OTQ0OTI0MjIsInVyaV9zdWIiOiIvMDE5NWNkZjMtZDhkOC03NGI2LTk1MTYtNmM3OWMwNmJjZWM4LyIsInVpZCI6IjY2MTFkNGU4LWJhZDAtNDUxOC05YTI4LThkMzM4Y2I2YzY0NCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.XXVWEE6kk3nq0zHc73_ArXKo5idZu4IyP-_SM67fjcs&uid=6611d4e8-bad0-4518-9a28-8d338cb6c644DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4DE3MzgsImlhdCI6MTc5MTc1ODUzOCwic3ViIjoibWFpbi5vcmcjMTczNjA0NTI0OCIsInByZW1pdW0iOmZhbHNlfQ.r9s68epkf_1JOIrdJQJpvybhwKKApNF8nfVwegno1q4
 
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://www.lineup.tv.br/canais/playtv.gif" group-title="TVRO", PlayTV (São Paulo - SP)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
