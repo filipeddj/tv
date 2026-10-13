@@ -2,9 +2,8 @@ name: Atualizar Live SBT
 
 on:
   schedule:
-    # Roda a cada 6 horas automaticamente
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Permite rodar manualmente pelo painel do GitHub
+  workflow_dispatch:
 
 jobs:
   update:
@@ -18,7 +17,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Atualizar e Instalar yt-dlp mais recente
+      - name: Instalar yt-dlp mais recente
         run: |
           pip install --upgrade pip
           pip install --upgrade yt-dlp
@@ -30,5 +29,9 @@ jobs:
         run: |
           git config --global user.name "Bot do GitHub"
           git config --global user.email "bot@users.noreply.github.com"
-          git add lista.m3u 2>/dev/null || true
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Atualizar link do SBT" && git push)
+          if [ -f lista.m3u ]; then
+            git add lista.m3u
+            git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Atualizar link do SBT" && git push)
+          else
+            echo "Arquivo lista.m3u não encontrado, pulando commit."
+          fi
